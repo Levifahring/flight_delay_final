@@ -2023,6 +2023,4494 @@
         "STATE_NAME": "WISCONSIN",
         "COUNTY_NAME": "BROWN"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.44947222,
+          31.32102777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DOTHAN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DOTHAN",
+        "STATE_NAME": "ALABAMA",
+        "COUNTY_NAME": "DALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24283333,
+          30.69141666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MOBILE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MOBILE",
+        "STATE_NAME": "ALABAMA",
+        "COUNTY_NAME": "MOBILE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39397222,
+          32.30063888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MONTGOMERY RGNL (DANNELLY FLD)",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MONTGOMERY",
+        "STATE_NAME": "ALABAMA",
+        "COUNTY_NAME": "MONTGOMERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66924138,
+          35.14031583
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FLAGSTAFF PULLIAM",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FLAGSTAFF",
+        "STATE_NAME": "ARIZONA",
+        "COUNTY_NAME": "COCONINO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.44835055,
+          36.92606944
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PAGE MUNI",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PAGE",
+        "STATE_NAME": "ARIZONA",
+        "COUNTY_NAME": "COCONINO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01158333,
+          33.43427777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PHOENIX SKY HARBOR INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "PHOENIX",
+        "STATE_NAME": "ARIZONA",
+        "COUNTY_NAME": "MARICOPA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.41922222,
+          34.65483333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PRESCOTT RGNL/ERNEST A LOVE FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PRESCOTT",
+        "STATE_NAME": "ARIZONA",
+        "COUNTY_NAME": "YAVAPAI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.60598722,
+          32.65657388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "YUMA MCAS/YUMA INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "YUMA",
+        "STATE_NAME": "ARIZONA",
+        "COUNTY_NAME": "YUMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.36610888,
+          35.33664694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FORT SMITH RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FORT SMITH",
+        "STATE_NAME": "ARKANSAS",
+        "COUNTY_NAME": "SEBASTIAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.99103055,
+          33.45371638
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TEXARKANA RGNL-WEBB FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TEXARKANA",
+        "STATE_NAME": "ARKANSAS",
+        "COUNTY_NAME": "MILLER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10846916,
+          40.97782638
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CALIFORNIA REDWOOD COAST-HUMBOLDT COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ARCATA/EUREKA",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "HUMBOLDT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.05766666,
+          35.43386111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MEADOWS FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BAKERSFIELD",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "KERN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35866666,
+          34.20069444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BOB HOPE",
+        "HUB_SIZE": "Medium",
+        "CITY": "BURBANK",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "LOS ANGELES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40804861,
+          33.94249638
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LOS ANGELES INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "LOS ANGELES",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "LOS ANGELES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84278305,
+          36.58695222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MONTEREY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MONTEREY",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "MONTEREY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22115055,
+          37.72126138
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN FRANCISCO BAY OAKLAND INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "OAKLAND",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "ALAMEDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6011875,
+          34.05601416
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ONTARIO INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "ONTARIO",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SAN BERNARDINO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29338527,
+          40.50898527
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "REDDING RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "REDDING",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SHASTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.59077777,
+          38.69544444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SACRAMENTO INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "SACRAMENTO",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SACRAMENTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.18966333,
+          32.73356277
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN DIEGO INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "SAN DIEGO",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SAN DIEGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37541666,
+          37.61880555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN FRANCISCO INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "SAN FRANCISCO",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SAN MATEO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.92862055,
+          37.36299472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NORMAN Y MINETA SAN JOSE INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "SAN JOSE",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SANTA CLARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.64260277,
+          35.2372725
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN LUIS OBISPO COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SAN LUIS OBISPO",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SAN LUIS OBISPO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.86823305,
+          33.67566194
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JOHN WAYNE/ORANGE COUNTY",
+        "HUB_SIZE": "Medium",
+        "CITY": "SANTA ANA",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "ORANGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.45808333,
+          34.89994444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SANTA MARIA PUB/CAPT G ALLAN HANCOCK FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SANTA MARIA",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SANTA BARBARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81288888,
+          38.50969444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHARLES M SCHULZ/SONOMA COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SANTA ROSA",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SONOMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.23874,
+          37.89441027
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "STOCKTON METRO",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "STOCKTON",
+        "STATE_NAME": "CALIFORNIA",
+        "COUNTY_NAME": "SAN JOAQUIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.86787527,
+          37.435125
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN LUIS VALLEY RGNL/BERGMAN FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ALAMOSA",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "ALAMOSA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86823333,
+          39.22187833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ASPEN-PITKIN COUNTY/SARDY FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ASPEN",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "PITKIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.67316666,
+          39.86166666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DENVER INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "DENVER",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "DENVER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.75377777,
+          37.15152777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DURANGO-LA PLATA COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DURANGO",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "LA PLATA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.91594444,
+          39.64275
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EAGLE COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "EAGLE",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "EAGLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.52548555,
+          39.12149916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GRAND JUNCTION RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GRAND JUNCTION",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "MESA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.93175,
+          38.53433333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GUNNISON-CRESTED BUTTE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GUNNISON",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "GUNNISON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.21766666,
+          40.48119444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "YAMPA VALLEY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HAYDEN",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "ROUTT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.89425,
+          38.50980555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MONTROSE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MONTROSE",
+        "STATE_NAME": "COLORADO",
+        "COUNTY_NAME": "MONTROSE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.88772916,
+          41.26372472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TWEED/NEW HAVEN",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NEW HAVEN",
+        "STATE_NAME": "CONNECTICUT",
+        "COUNTY_NAME": "NEW HAVEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.68431583,
+          41.93903222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BRADLEY INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "WINDSOR LOCKS",
+        "STATE_NAME": "CONNECTICUT",
+        "COUNTY_NAME": "HARTFORD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606635,
+          39.67870972
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NEW CASTLE",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WILMINGTON",
+        "STATE_NAME": "DELAWARE",
+        "COUNTY_NAME": "NEW CASTLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03772138,
+          38.85144027
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RONALD REAGAN WASHINGTON NTL",
+        "HUB_SIZE": "Large",
+        "CITY": "WASHINGTON",
+        "STATE_NAME": "DIST. OF COLUMBIA",
+        "COUNTY_NAME": "ARLINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45992861,
+          38.94745638
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WASHINGTON DULLES INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "WASHINGTON",
+        "STATE_NAME": "DIST. OF COLUMBIA",
+        "COUNTY_NAME": "LOUDOUN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.05804222,
+          29.17990888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DAYTONA BEACH INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DAYTONA BEACH",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "VOLUSIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14969444,
+          26.07166666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FORT LAUDERDALE/HOLLYWOOD INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "FORT LAUDERDALE",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "BROWARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.755155,
+          26.53616388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SOUTHWEST FLORIDA INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "FORT MYERS",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "LEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.27177777,
+          29.69005555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GAINESVILLE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GAINESVILLE",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "ALACHUA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68784666,
+          30.49404555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JACKSONVILLE INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "JACKSONVILLE",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "DUVAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.64525,
+          28.10275
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MELBOURNE ORLANDO INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MELBOURNE",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "BREVARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.29011583,
+          25.79536111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MIAMI INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "MIAMI",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "DADE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.309,
+          28.42938888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ORLANDO INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "ORLANDO",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "ORANGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35086888,
+          30.39675416
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TALLAHASSEE INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TALLAHASSEE",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "LEON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.53325,
+          27.97547222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TAMPA INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "TAMPA",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "HILLSBOROUGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09559194,
+          26.68316166
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PALM BEACH INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "WEST PALM BEACH",
+        "STATE_NAME": "FLORIDA",
+        "COUNTY_NAME": "PALM BEACH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19447222,
+          31.53552777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SOUTHWEST GEORGIA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ALBANY",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "DOUGHERTY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.427864,
+          33.63669961
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HARTSFIELD/JACKSON ATLANTA INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "ATLANTA",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "FULTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9645,
+          33.36994444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "AUGUSTA RGNL AT BUSH FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "AUGUSTA",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "RICHMOND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.46631638,
+          31.25903527
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BRUNSWICK GOLDEN ISLES",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BRUNSWICK",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "GLYNN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.93887027,
+          32.5163275
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "COLUMBUS",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "COLUMBUS",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "MUSCOGEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.64922222,
+          32.69283333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MIDDLE GEORGIA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MACON",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "BIBB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27597166,
+          30.78146444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "VALDOSTA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "VALDOSTA",
+        "STATE_NAME": "GEORGIA",
+        "COUNTY_NAME": "LOWNDES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.22286111,
+          43.56436111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BOISE AIR TRML/GOWEN FLD",
+        "HUB_SIZE": "Medium",
+        "CITY": "BOISE",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "ADA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.29555833,
+          43.50378055
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FRIEDMAN MEML",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HAILEY",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "BLAINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07082027,
+          43.51367333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "IDAHO FALLS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "IDAHO FALLS",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "BONNEVILLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.01539638,
+          46.37449861
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LEWISTON/NEZ PERCE COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LEWISTON",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "NEZ PERCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.59591888,
+          42.9097925
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "POCATELLO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "POCATELLO",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "POWER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.48773611,
+          42.48180916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JOSLIN FLD/MAGIC VALLEY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TWIN FALLS",
+        "STATE_NAME": "IDAHO",
+        "COUNTY_NAME": "TWIN FALLS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.83518555,
+          38.54517305
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SCOTT AFB/MIDAMERICA ST LOUIS",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BELLEVILLE",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "ST CLAIR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.91591666,
+          40.47711111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CENTRAL IL RGNL/BLOOMINGTON-NORMAL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BLOOMINGTON/NORMAL",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "MC LEAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.27653916,
+          40.03856083
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "UNIVERSITY OF ILLINOIS/WILLARD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CHAMPAIGN/URBANA",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "CHAMPAIGN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75241666,
+          41.78597222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHICAGO MIDWAY INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "CHICAGO",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "COOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90814972,
+          41.97694027
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHICAGO O'HARE INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "CHICAGO",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "COOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.01108333,
+          37.75497222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "VETERANS AIRPORT OF SOUTHERN ILLINOIS",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MARION",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "WILLIAMSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50777,
+          41.44820916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "QUAD CITIES INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MOLINE",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "ROCK ISLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.69325,
+          40.66419444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GENERAL DOWNING - PEORIA INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PEORIA",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "PEORIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.09722222,
+          42.19536111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHICAGO/ROCKFORD INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CHICAGO/ROCKFORD",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "WINNEBAGO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.67754666,
+          39.84461361
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ABRAHAM LINCOLN CAPITAL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SPRINGFIELD",
+        "STATE_NAME": "ILLINOIS",
+        "COUNTY_NAME": "SANGAMON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5285,
+          38.04080555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EVANSVILLE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "EVANSVILLE",
+        "STATE_NAME": "INDIANA",
+        "COUNTY_NAME": "VANDERBURGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.29463888,
+          39.71730555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "INDIANAPOLIS INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "INDIANAPOLIS",
+        "STATE_NAME": "INDIANA",
+        "COUNTY_NAME": "MARION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.70947222,
+          42.402
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DUBUQUE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DUBUQUE",
+        "STATE_NAME": "IOWA",
+        "COUNTY_NAME": "DUBUQUE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.38441805,
+          42.40130944
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SIOUX GATEWAY/BRIG GENERAL BUD DAY FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SIOUX CITY",
+        "STATE_NAME": "IOWA",
+        "COUNTY_NAME": "WOODBURY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.40102333,
+          42.55844916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WATERLOO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WATERLOO",
+        "STATE_NAME": "IOWA",
+        "COUNTY_NAME": "BLACK HAWK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.72441666,
+          37.92752777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GARDEN CITY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GARDEN CITY",
+        "STATE_NAME": "KANSAS",
+        "COUNTY_NAME": "FINNEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.27316666,
+          38.84222222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HAYS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HAYS",
+        "STATE_NAME": "KANSAS",
+        "COUNTY_NAME": "ELLIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.67155555,
+          39.14141666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MANHATTAN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MANHATTAN",
+        "STATE_NAME": "KANSAS",
+        "COUNTY_NAME": "RILEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65222222,
+          38.79061111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SALINA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SALINA",
+        "STATE_NAME": "KANSAS",
+        "COUNTY_NAME": "SALINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66782083,
+          39.0488375
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CINCINNATI/NORTHERN KENTUCKY INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "COVINGTON",
+        "STATE_NAME": "KENTUCKY",
+        "COUNTY_NAME": "BOONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16682855,
+          37.73883416
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "OWENSBORO/DAVIESS COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "OWENSBORO",
+        "STATE_NAME": "KENTUCKY",
+        "COUNTY_NAME": "DAVIESS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.77295916,
+          37.06028833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BARKLEY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PADUCAH",
+        "STATE_NAME": "KENTUCKY",
+        "COUNTY_NAME": "MC CRACKEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.54855583,
+          31.32737166
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ALEXANDRIA INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ALEXANDRIA",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "RAPIDES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.14988888,
+          30.53291666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BATON ROUGE METRO, RYAN FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BATON ROUGE",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "EAST BATON ROUGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.98775,
+          30.20502777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LAFAYETTE RGNL/PAUL FOURNET FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LAFAYETTE",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "LAFAYETTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22341277,
+          30.12609444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LAKE CHARLES RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LAKE CHARLES",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "CALCASIEU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.03613361,
+          32.51055583
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MONROE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MONROE",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "OUACHITA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2590275,
+          29.99327222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LOUIS ARMSTRONG NEW ORLEANS INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "NEW ORLEANS",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "JEFFERSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.82604,
+          32.44651527
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SHREVEPORT RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SHREVEPORT",
+        "STATE_NAME": "LOUISIANA",
+        "COUNTY_NAME": "CADDO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.82813888,
+          44.80744444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BANGOR INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BANGOR",
+        "STATE_NAME": "MAINE",
+        "COUNTY_NAME": "PENOBSCOT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.04479138,
+          46.68896388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PRESQUE ISLE INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PRESQUE ISLE",
+        "STATE_NAME": "MAINE",
+        "COUNTY_NAME": "AROOSTOOK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.09966972,
+          44.06014222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "KNOX COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ROCKLAND",
+        "STATE_NAME": "MAINE",
+        "COUNTY_NAME": "KNOX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66899111,
+          39.17572833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL",
+        "HUB_SIZE": "Large",
+        "CITY": "BALTIMORE",
+        "STATE_NAME": "MARYLAND",
+        "COUNTY_NAME": "ANNE ARUNDEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7265,
+          39.7085
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HAGERSTOWN RGNL/RICHARD A HENSON FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HAGERSTOWN",
+        "STATE_NAME": "MARYLAND",
+        "COUNTY_NAME": "WASHINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.50947805,
+          38.34018944
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SALISBURY-OCEAN CITY WICOMICO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SALISBURY",
+        "STATE_NAME": "MARYLAND",
+        "COUNTY_NAME": "WICOMICO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.00638888,
+          42.36294444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GENERAL EDWARD LAWRENCE LOGAN INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "BOSTON",
+        "STATE_NAME": "MASSACHUSETTS",
+        "COUNTY_NAME": "SUFFOLK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.28035916,
+          41.66933722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CAPE COD GATEWAY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HYANNIS",
+        "STATE_NAME": "MASSACHUSETTS",
+        "COUNTY_NAME": "BARNSTABLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.06051138,
+          41.25329916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NANTUCKET MEML",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NANTUCKET",
+        "STATE_NAME": "MASSACHUSETTS",
+        "COUNTY_NAME": "NANTUCKET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.61387444,
+          41.3934175
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MARTHA'S VINEYARD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "VINEYARD HAVEN",
+        "STATE_NAME": "MASSACHUSETTS",
+        "COUNTY_NAME": "DUKES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.87561111,
+          42.26713888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WORCESTER RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WORCESTER",
+        "STATE_NAME": "MASSACHUSETTS",
+        "COUNTY_NAME": "WORCESTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56030555,
+          45.07808333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ALPENA COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ALPENA",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "ALPENA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35339333,
+          42.21243111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DETROIT METRO WAYNE COUNTY",
+        "HUB_SIZE": "Large",
+        "CITY": "DETROIT",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "WAYNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09371583,
+          45.72267416
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DELTA COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ESCANABA",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "DELTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74473805,
+          42.96546388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BISHOP INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FLINT",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "GENESEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.48906944,
+          47.16841694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HOUGHTON COUNTY MEML",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HANCOCK",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "HOUGHTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11454444,
+          45.81835638
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FORD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "IRON MOUNTAIN KINGSFORD",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "DICKINSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55155555,
+          42.23438888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "KALAMAZOO/BATTLE CREEK INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "KALAMAZOO",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "KALAMAZOO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.58620555,
+          42.7786475
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CAPITAL REGION INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LANSING",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "CLINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.39637166,
+          46.34915833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MARQUETTE/SAWYER RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MARQUETTE",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "MARQUETTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.23543872,
+          43.16767172
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MUSKEGON COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MUSKEGON",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "MUSKEGON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79672222,
+          45.57091666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PELLSTON RGNL/EMMET COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PELLSTON",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "EMMET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07963583,
+          43.53292694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MBS INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SAGINAW",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "SAGINAW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47238416,
+          46.25075166
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHIPPEWA COUNTY INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SAULT STE MARIE",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "CHIPPEWA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.58187,
+          44.74157861
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHERRY CAPITAL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TRAVERSE CITY",
+        "STATE_NAME": "MICHIGAN",
+        "COUNTY_NAME": "GRAND TRAVERSE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.93472222,
+          47.51072222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BEMIDJI RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BEMIDJI",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "BELTRAMI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.13380555,
+          46.40422222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BRAINERD LAKES RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BRAINERD",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "CROW WING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.19323722,
+          46.84206975
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DULUTH INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DULUTH",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "ST LOUIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.83897805,
+          47.386575
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RANGE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HIBBING",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "ST LOUIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22177777,
+          44.88197222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN",
+        "HUB_SIZE": "Large",
+        "CITY": "MINNEAPOLIS",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "HENNEPIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.50002777,
+          43.90827777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ROCHESTER INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ROCHESTER",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "OLMSTED"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.05938888,
+          45.54622222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ST CLOUD RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ST CLOUD",
+        "STATE_NAME": "MINNESOTA",
+        "COUNTY_NAME": "SHERBURNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.59138888,
+          33.44827777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GOLDEN TRIANGLE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "COLUMBUS/W POINT/STARKVILLE",
+        "STATE_NAME": "MISSISSIPPI",
+        "COUNTY_NAME": "LOWNDES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07009583,
+          30.40726916
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GULFPORT-BILOXI INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GULFPORT",
+        "STATE_NAME": "MISSISSIPPI",
+        "COUNTY_NAME": "HARRISON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.33705555,
+          31.46713888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HATTIESBURG/LAUREL RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HATTIESBURG-LAUREL",
+        "STATE_NAME": "MISSISSIPPI",
+        "COUNTY_NAME": "JONES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75157222,
+          32.33286166
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "KEY FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MERIDIAN",
+        "STATE_NAME": "MISSISSIPPI",
+        "COUNTY_NAME": "LAUDERDALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76988888,
+          34.269
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TUPELO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TUPELO",
+        "STATE_NAME": "MISSISSIPPI",
+        "COUNTY_NAME": "LEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20054444,
+          36.5320825
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BRANSON",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BRANSON",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "TANEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.21779194,
+          38.81773527
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "COLUMBIA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "COLUMBIA",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "BOONE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.14072222,
+          37.74163888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WAYNESVILLE-ST ROBERT RGNL FORNEY FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FORT LEONARD WOOD",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "PULASKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4988075,
+          37.15316722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JOPLIN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "JOPLIN",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "JASPER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.71388888,
+          39.29761111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "KANSAS CITY INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "KANSAS CITY",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "PLATTE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.37002572,
+          38.74869822
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ST LOUIS LAMBERT INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "ST LOUIS",
+        "STATE_NAME": "MISSOURI",
+        "COUNTY_NAME": "ST LOUIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.49747222,
+          45.95480555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BERT MOONEY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BUTTE",
+        "STATE_NAME": "MONTANA",
+        "COUNTY_NAME": "SILVER BOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.37027941,
+          47.48229927
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GREAT FALLS INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GREAT FALLS",
+        "STATE_NAME": "MONTANA",
+        "COUNTY_NAME": "CASCADE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.98327777,
+          46.60672222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HELENA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HELENA",
+        "STATE_NAME": "MONTANA",
+        "COUNTY_NAME": "LEWIS AND CLARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.11763888,
+          44.68838888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "YELLOWSTONE",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WEST YELLOWSTONE",
+        "STATE_NAME": "MONTANA",
+        "COUNTY_NAME": "GALLATIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.30963888,
+          40.9675425
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CENTRAL NEBRASKA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GRAND ISLAND",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "HALL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.00677,
+          40.72704055
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "KEARNEY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "KEARNEY",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "BUFFALO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.75912111,
+          40.85089138
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LINCOLN",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LINCOLN",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "LANCASTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.68365305,
+          41.12621277
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NORTH PLATTE RGNL/LEE BIRD FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NORTH PLATTE",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "LINCOLN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.89405555,
+          41.30316666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EPPLEY AIRFIELD",
+        "HUB_SIZE": "Medium",
+        "CITY": "OMAHA",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "DOUGLAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.59563888,
+          41.87402777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SCOTTSBLUFF/WESTERN NEBRASKA RGNL/WM  B HEILIG FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SCOTTSBLUFF",
+        "STATE_NAME": "NEBRASKA",
+        "COUNTY_NAME": "SCOTTS BLUFF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.86108416,
+          35.94730805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BOULDER CITY MUNI",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BOULDER CITY",
+        "STATE_NAME": "NEVADA",
+        "COUNTY_NAME": "CLARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7913375,
+          40.82499861
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ELKO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ELKO",
+        "STATE_NAME": "NEVADA",
+        "COUNTY_NAME": "ELKO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15223472,
+          36.08004388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HARRY REID INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "LAS VEGAS",
+        "STATE_NAME": "NEVADA",
+        "COUNTY_NAME": "CLARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.76811111,
+          39.49911111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RENO/TAHOE INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "RENO",
+        "STATE_NAME": "NEVADA",
+        "COUNTY_NAME": "WASHOE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.82327777,
+          43.07794444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PORTSMOUTH INTL AT PEASE",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PORTSMOUTH",
+        "STATE_NAME": "NEW HAMPSHIRE",
+        "COUNTY_NAME": "ROCKINGHAM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16868677,
+          40.69247983
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NEWARK LIBERTY INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "NEWARK",
+        "STATE_NAME": "NEW JERSEY",
+        "COUNTY_NAME": "ESSEX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.81347222,
+          40.27669444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TRENTON MERCER",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TRENTON",
+        "STATE_NAME": "NEW JERSEY",
+        "COUNTY_NAME": "MERCER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.60826216,
+          35.03893155
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ALBUQUERQUE INTL SUNPORT",
+        "HUB_SIZE": "Medium",
+        "CITY": "ALBUQUERQUE",
+        "STATE_NAME": "NEW MEXICO",
+        "COUNTY_NAME": "BERNALILLO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21752861,
+          32.68734944
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LEA COUNTY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HOBBS",
+        "STATE_NAME": "NEW MEXICO",
+        "COUNTY_NAME": "LEA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.52940305,
+          33.2998775
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ROSWELL AIR CENTER",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ROSWELL",
+        "STATE_NAME": "NEW MEXICO",
+        "COUNTY_NAME": "CHAVES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.08941666,
+          35.61711111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SANTA FE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SANTA FE",
+        "STATE_NAME": "NEW MEXICO",
+        "COUNTY_NAME": "SANTA FE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97961111,
+          42.20844444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GREATER BINGHAMTON/EDWIN A LINK FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BINGHAMTON",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "BROOME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89174777,
+          42.15985472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ELMIRA/CORNING RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ELMIRA/CORNING",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "CHEMUNG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45872222,
+          42.49136111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ITHACA TOMPKINS INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ITHACA",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "TOMPKINS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10483333,
+          41.50411111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NEW YORK STEWART INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NEW YORK",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "ORANGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77869222,
+          40.63992805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JOHN F KENNEDY INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "NEW YORK",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "QUEENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87260555,
+          40.77724222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LAGUARDIA",
+        "HUB_SIZE": "Large",
+        "CITY": "NEW YORK",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "QUEENS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94584666,
+          43.10755736
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NIAGARA FALLS INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NIAGARA FALLS",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "NIAGARA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46325,
+          44.68225
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "OGDENSBURG INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "OGDENSBURG",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "ST LAWRENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.46813888,
+          44.65094444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PLATTSBURGH INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PLATTSBURGH",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "CLINTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.01941666,
+          43.99183333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WATERTOWN INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WATERTOWN",
+        "STATE_NAME": "NEW YORK",
+        "COUNTY_NAME": "JEFFERSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94905555,
+          35.21375
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHARLOTTE/DOUGLAS INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "CHARLOTTE",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "MECKLENBURG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7091325,
+          35.38777027
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CONCORD-PADGETT RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CONCORD",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "CABARRUS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88027416,
+          34.99121111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FAYETTEVILLE RGNL/GRANNIS FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FAYETTEVILLE",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "CUMBERLAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38408333,
+          35.63569444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PITT-GREENVILLE",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GREENVILLE",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "PITT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.61213888,
+          34.82916666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ALBERT J ELLIS",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "JACKSONVILLE",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "ONSLOW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04301972,
+          35.07285444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "COASTAL CAROLINA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NEW BERN",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "CRAVEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78747222,
+          35.87763888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RALEIGH-DURHAM INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "RALEIGH/DURHAM",
+        "STATE_NAME": "NORTH CAROLINA",
+        "COUNTY_NAME": "WAKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7457375,
+          46.77273388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BISMARCK MUNI",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BISMARCK",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "BURLEIGH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.80443527,
+          46.80047361
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DICKINSON/THEODORE ROOSEVELT RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DICKINSON",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "STARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.17569166,
+          47.94786833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GRAND FORKS INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GRAND FORKS",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "GRAND FORKS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.67819444,
+          46.92972222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JAMESTOWN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "JAMESTOWN",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "STUTSMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.27802777,
+          48.25763888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MINOT INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MINOT",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "WARD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.75055666,
+          48.25978361
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WILLISTON BASIN INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WILLISTON",
+        "STATE_NAME": "NORTH DAKOTA",
+        "COUNTY_NAME": "WILLIAMS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.44363888,
+          40.91505555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "AKRON-CANTON RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "AKRON",
+        "STATE_NAME": "OHIO",
+        "COUNTY_NAME": "SUMMIT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.85469111,
+          41.40940694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CLEVELAND-HOPKINS INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "CLEVELAND",
+        "STATE_NAME": "OHIO",
+        "COUNTY_NAME": "CUYAHOGA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92781372,
+          39.813787
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RICKENBACKER INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "COLUMBUS",
+        "STATE_NAME": "OHIO",
+        "COUNTY_NAME": "FRANKLIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.89215916,
+          39.99694666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JOHN GLENN COLUMBUS INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "COLUMBUS",
+        "STATE_NAME": "OHIO",
+        "COUNTY_NAME": "FRANKLIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80782666,
+          41.58681666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EUGENE F KRANZ TOLEDO EXPRESS",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TOLEDO",
+        "STATE_NAME": "OHIO",
+        "COUNTY_NAME": "LUCAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41663666,
+          34.56771444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LAWTON-FORT SILL RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LAWTON",
+        "STATE_NAME": "OKLAHOMA",
+        "COUNTY_NAME": "COMANCHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.08589333,
+          36.16138944
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "STILLWATER RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "STILLWATER",
+        "STATE_NAME": "OKLAHOMA",
+        "COUNTY_NAME": "PAYNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.24702777,
+          43.41694444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SOUTHWEST OREGON RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NORTH BEND",
+        "STATE_NAME": "OREGON",
+        "COUNTY_NAME": "COOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59686941,
+          45.58870886
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PORTLAND INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "PORTLAND",
+        "STATE_NAME": "OREGON",
+        "COUNTY_NAME": "MULTNOMAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17394444,
+          42.08308333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ERIE INTL/TOM RIDGE FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ERIE",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "ERIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41032555,
+          40.2731005
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ARNOLD PALMER RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LATROBE",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "WESTMORELAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24066305,
+          39.87208388
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PHILADELPHIA INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "PHILADELPHIA",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "PHILADELPHIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.23269444,
+          40.49141666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PITTSBURGH INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "PITTSBURGH",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "ALLEGHENY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.84758333,
+          40.85
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "STATE COLLEGE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "STATE COLLEGE",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "CENTRE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72338888,
+          41.33847222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WILKES-BARRE/SCRANTON INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WILKES-BARRE/SCRANTON",
+        "STATE_NAME": "PENNSYLVANIA",
+        "COUNTY_NAME": "LUZERNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04052777,
+          32.89863888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHARLESTON AFB/INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "CHARLESTON",
+        "STATE_NAME": "SOUTH CAROLINA",
+        "COUNTY_NAME": "CHARLESTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.72388305,
+          34.18536333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FLORENCE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FLORENCE",
+        "STATE_NAME": "SOUTH CAROLINA",
+        "COUNTY_NAME": "FLORENCE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.69740083,
+          32.224495
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "HILTON HEAD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HILTON HEAD ISLAND",
+        "STATE_NAME": "SOUTH CAROLINA",
+        "COUNTY_NAME": "BEAUFORT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.42244083,
+          45.44679805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ABERDEEN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ABERDEEN",
+        "STATE_NAME": "SOUTH DAKOTA",
+        "COUNTY_NAME": "BROWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28597527,
+          44.38268694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PIERRE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PIERRE",
+        "STATE_NAME": "SOUTH DAKOTA",
+        "COUNTY_NAME": "HUGHES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.15472222,
+          44.91397222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WATERTOWN RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WATERTOWN",
+        "STATE_NAME": "SOUTH DAKOTA",
+        "COUNTY_NAME": "CODINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.40741527,
+          36.47520777
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TRI-CITIES",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BRISTOL/JOHNSON/KINGSPORT",
+        "STATE_NAME": "TENNESSEE",
+        "COUNTY_NAME": "SULLIVAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.97667916,
+          35.04241138
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "MEMPHIS INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "MEMPHIS",
+        "STATE_NAME": "TENNESSEE",
+        "COUNTY_NAME": "SHELBY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.67818055,
+          36.124475
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NASHVILLE INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "NASHVILLE",
+        "STATE_NAME": "TENNESSEE",
+        "COUNTY_NAME": "DAVIDSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68188888,
+          32.41133333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ABILENE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ABILENE",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "TAYLOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.70591666,
+          35.21936111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RICK HUSBAND AMARILLO INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "AMARILLO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "POTTER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66987611,
+          30.19452722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "AUSTIN-BERGSTROM INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "AUSTIN",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "TRAVIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.02069888,
+          29.95083111
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "JACK BROOKS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BEAUMONT/PORT ARTHUR",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "JEFFERSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.426,
+          25.90613888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BROWNSVILLE/SOUTH PADRE ISLAND INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BROWNSVILLE",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "CAMERON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.36254444,
+          30.58804188
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EASTERWOOD FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "COLLEGE STATION",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "BRAZOS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.50241666,
+          27.77219444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CORPUS CHRISTI INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CORPUS CHRISTI",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "NUECES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.03769472,
+          32.89723305
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DALLAS-FORT WORTH INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "DALLAS-FORT WORTH",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "TARRANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.85087666,
+          32.84594472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DALLAS LOVE FLD",
+        "HUB_SIZE": "Medium",
+        "CITY": "DALLAS",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "DALLAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.92715694,
+          29.37420694
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "DEL RIO INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "DEL RIO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "VAL VERDE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82891666,
+          31.06725
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ROBERT GRAY AAF",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FORT CAVAZOS (KILLEEN)",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "BELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.27723158,
+          29.64579983
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WILLIAM P HOBBY",
+        "HUB_SIZE": "Medium",
+        "CITY": "HOUSTON",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "HARRIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3414425,
+          29.98443527
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GEORGE BUSH INTCNTL/HOUSTON",
+        "HUB_SIZE": "Large",
+        "CITY": "HOUSTON",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "HARRIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.46158333,
+          27.54419444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LAREDO INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LAREDO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "WEBB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7115,
+          32.384
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "EAST TEXAS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LONGVIEW",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "GREGG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.49630416,
+          31.35774833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN ANGELO RGNL/MATHIS FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SAN ANGELO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "TOM GREEN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.46905694,
+          29.53395833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SAN ANTONIO INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "SAN ANTONIO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "BEXAR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.40297777,
+          32.35354722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TYLER POUNDS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "TYLER",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "SMITH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.23030555,
+          31.61219444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WACO RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WACO",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "MC LENNAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49190555,
+          33.9888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SHEPPARD AFB/WICHITA FALLS MUNI",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WICHITA FALLS",
+        "STATE_NAME": "TEXAS",
+        "COUNTY_NAME": "WICHITA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.09885083,
+          37.70097
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CEDAR CITY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CEDAR CITY",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "IRON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7534625,
+          38.75763083
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CANYONLANDS RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MOAB",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "GRAND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01219472,
+          41.19507036
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "OGDEN-HINCKLEY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "OGDEN",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "WEBER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.72336111,
+          40.21916666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PROVO MUNI",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PROVO",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "UTAH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51030277,
+          37.03637805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ST GEORGE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ST GEORGE",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "WASHINGTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.97777333,
+          40.78839333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SALT LAKE CITY INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "SALT LAKE CITY",
+        "STATE_NAME": "UTAH",
+        "COUNTY_NAME": "SALT LAKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.45234416,
+          38.13964277
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHARLOTTESVILLE-ALBEMARLE",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CHARLOTTESVILLE",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "ALBEMARLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.20122222,
+          37.32538888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LYNCHBURG RGNL/PRESTON GLENN FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LYNCHBURG",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "CAMPBELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49297222,
+          37.13188888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NEWPORT NEWS/WILLIAMSBURG INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "NEWPORT NEWS",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "NEWPORT NEWS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.20122916,
+          36.89460416
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NORFOLK INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "NORFOLK",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "NORFOLK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.97541666,
+          37.32547222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ROANOKE/BLACKSBURG RGNL (WOODRUM FLD)",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ROANOKE",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "ROANOKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.89644444,
+          38.26383333
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SHENANDOAH VALLEY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "STAUNTON/WAYNESBORO/HARRISONBURG",
+        "STATE_NAME": "VIRGINIA",
+        "COUNTY_NAME": "AUGUSTA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53752777,
+          48.79269444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BELLINGHAM INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "BELLINGHAM",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "WHATCOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91059527,
+          48.70833722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "ORCAS ISLAND",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "EASTSOUND",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "SAN JUAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28209388,
+          47.90731805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SEATTLE PAINE FLD INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "EVERETT",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "SNOHOMISH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02436111,
+          48.52197222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "FRIDAY HARBOR",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "FRIDAY HARBOR",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "SAN JUAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11161916,
+          46.74169138
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PULLMAN/MOSCOW RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "PULLMAN/MOSCOW",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "WHITMAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31177777,
+          47.44988888
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SEATTLE-TACOMA INTL",
+        "HUB_SIZE": "Large",
+        "CITY": "SEATTLE",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "KING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30194444,
+          47.52997222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "BOEING FLD/KING COUNTY INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SEATTLE",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "KING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2840825,
+          46.09254166
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WALLA WALLA RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WALLA WALLA",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "WALLA WALLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.20683333,
+          47.39880555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "PANGBORN MEML",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "WENATCHEE",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "DOUGLAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5440625,
+          46.56816722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "YAKIMA AIR TRML/MCALLISTER FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "YAKIMA",
+        "STATE_NAME": "WASHINGTON",
+        "COUNTY_NAME": "YAKIMA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.59289361,
+          38.37601305
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "WEST VIRGINIA INTL YEAGER",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CHARLESTON",
+        "STATE_NAME": "WEST VIRGINIA",
+        "COUNTY_NAME": "KANAWHA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22753194,
+          39.29765472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NORTH CENTRAL WEST VIRGINIA",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CLARKSBURG",
+        "STATE_NAME": "WEST VIRGINIA",
+        "COUNTY_NAME": "HARRISON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.56036022,
+          38.3685078
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "TRI-STATE/MILTON J FERGUSON FLD",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "HUNTINGTON",
+        "STATE_NAME": "WEST VIRGINIA",
+        "COUNTY_NAME": "WAYNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3994825,
+          37.85830666
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GREENBRIER VALLEY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LEWISBURG",
+        "STATE_NAME": "WEST VIRGINIA",
+        "COUNTY_NAME": "GREENBRIER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.48425,
+          44.86580555
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CHIPPEWA VALLEY RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "EAU CLAIRE",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "CHIPPEWA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12971333,
+          44.48463361
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GREEN BAY/AUSTIN STRAUBEL INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GREEN BAY",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "BROWN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.25663361,
+          43.87926566
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LA CROSSE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LA CROSSE",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "LA CROSSE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89706444,
+          42.94693194
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "GENERAL MITCHELL INTL",
+        "HUB_SIZE": "Medium",
+        "CITY": "MILWAUKEE",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "MILWAUKEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.66591111,
+          44.77778305
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CENTRAL WISCONSIN",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "MOSINEE",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "MARATHON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.46662777,
+          45.63090055
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "RHINELANDER/ONEIDA COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "RHINELANDER",
+        "STATE_NAME": "WISCONSIN",
+        "COUNTY_NAME": "ONEIDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.46364861,
+          42.90587472
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CASPER/NATRONA COUNTY INTL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CASPER",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "NATRONA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.02380555,
+          44.52019444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "YELLOWSTONE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "CODY",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "PARK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5393675,
+          44.34890805
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "NORTHEAST WYOMING RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "GILLETTE",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "CAMPBELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.67498555,
+          41.31205722
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "LARAMIE RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "LARAMIE",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "ALBANY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.45984083,
+          43.06423833
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "CENTRAL WYOMING RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "RIVERTON",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "FREMONT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.06519444,
+          41.59422222
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SOUTHWEST WYOMING RGNL",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "ROCK SPRINGS",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "SWEETWATER"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.98027777,
+          44.76919444
+        ]
+      },
+      "properties": {
+        "ARPT_NAME": "SHERIDAN COUNTY",
+        "HUB_SIZE": "Nonhub",
+        "CITY": "SHERIDAN",
+        "STATE_NAME": "WYOMING",
+        "COUNTY_NAME": "SHERIDAN"
+      }
     }
   ]
 }
