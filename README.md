@@ -1,10 +1,10 @@
-Project 4: Flight Delay Prediction 
+# Project 4 Flight Delay Prediction
 ________________________________________
-Project Overview
+## Project Overview
 
 Flight Delay Prediction is a machine learning project aimed at predicting flight delays based on weather conditions and time of year. The project leverages historical flight and weather data to build predictive models that provide actionable insights for airlines and passengers. The final product is an interactive dashboard that allows users to explore delay predictions and better manage their travel plans. 
 ________________________________________
-Dataset Sources
+## Dataset Sources
 
 We would like to acknowledge the data sources that made this project possible:
 •	Flight Delay Data:
@@ -14,7 +14,7 @@ o	Source: Bureau of Transportation Statistics
 o	Weather-related data such as temperature, wind speed, and precipitation to help predict weather-related delays.
 o	Source: Open-Meteo
 ________________________________________
-Prerequisites
+## Prerequisites
 
 •	Python 
 •	PostgreSQL
@@ -28,7 +28,7 @@ Libraries:
 •	API Requests
 •	Open-Meteo Requests
 ________________________________________
-Machine Learning Models
+## Machine Learning Models
 
 Algorithms Used
 Random Forest Classifier:
@@ -38,7 +38,7 @@ Random Forest Regressor:
 •	Predicts continuous delay times based on factors such as weather and airline data.
 •	Like the classifier, it combines multiple decision trees to improve accuracy and prevent overfitting, ideal for regression tasks like delay time prediction.
 ________________________________________
-Dashboard Deployment
+## Dashboard Deployment
 
 The machine learning models were integrated into a user-friendly dashboard, allowing users to input specific details (month, carrier, airport, etc.) and receive delay predictions. The dashboard provides a visual interface to explore the impact of different factors on flight delays.
 
@@ -52,6 +52,6 @@ Features of the Dashboard:
 •	Visualization: Graphical representation of prediction results.
 •	Accessibility: Deployed on GitHub Pages for easy access.
 ________________________________________
-Contributors
+## Contributors
 
 o	Peiwen Chiu, Levi Fahring, and Jen Zapata
