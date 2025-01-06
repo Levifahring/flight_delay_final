@@ -11,6 +11,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HSV",
         "ARPT_NAME": "HUNTSVILLE INTL-CARL T JONES FLD",
         "HUB_SIZE": "Small",
         "CITY": "HUNTSVILLE",
@@ -28,6 +29,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MOB",
         "ARPT_NAME": "MOBILE RGNL",
         "HUB_SIZE": "Small",
         "CITY": "MOBILE",
@@ -45,6 +47,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PHX",
         "ARPT_NAME": "PHOENIX SKY HARBOR INTL",
         "HUB_SIZE": "Large",
         "CITY": "PHOENIX",
@@ -62,6 +65,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TUS",
         "ARPT_NAME": "TUCSON INTL",
         "HUB_SIZE": "Medium",
         "CITY": "TUCSON",
@@ -79,6 +83,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GCN",
         "ARPT_NAME": "GRAND CANYON NTL PARK",
         "HUB_SIZE": "Small",
         "CITY": "GRAND CANYON",
@@ -96,6 +101,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LIT",
         "ARPT_NAME": "BILL AND HILLARY CLINTON NTL/ADAMS FLD",
         "HUB_SIZE": "Small",
         "CITY": "LITTLE ROCK",
@@ -113,6 +119,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAX",
         "ARPT_NAME": "LOS ANGELES INTL",
         "HUB_SIZE": "Large",
         "CITY": "LOS ANGELES",
@@ -130,6 +137,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SFO",
         "ARPT_NAME": "SAN FRANCISCO INTL",
         "HUB_SIZE": "Large",
         "CITY": "SAN FRANCISCO",
@@ -147,6 +155,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAN",
         "ARPT_NAME": "SAN DIEGO INTL",
         "HUB_SIZE": "Large",
         "CITY": "SAN DIEGO",
@@ -164,6 +173,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SJC",
         "ARPT_NAME": "NORMAN Y MINETA SAN JOSE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SAN JOSE",
@@ -181,6 +191,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OAK",
         "ARPT_NAME": "SAN FRANCISCO BAY OAKLAND INTL",
         "HUB_SIZE": "Medium",
         "CITY": "OAKLAND",
@@ -198,6 +209,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SNA",
         "ARPT_NAME": "JOHN WAYNE/ORANGE COUNTY",
         "HUB_SIZE": "Medium",
         "CITY": "SANTA ANA",
@@ -215,6 +227,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SMF",
         "ARPT_NAME": "SACRAMENTO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SACRAMENTO",
@@ -232,6 +245,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ONT",
         "ARPT_NAME": "ONTARIO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "ONTARIO",
@@ -249,6 +263,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BUR",
         "ARPT_NAME": "BOB HOPE",
         "HUB_SIZE": "Medium",
         "CITY": "BURBANK",
@@ -266,6 +281,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PSP",
         "ARPT_NAME": "PALM SPRINGS INTL",
         "HUB_SIZE": "Small",
         "CITY": "PALM SPRINGS",
@@ -283,6 +299,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FAT",
         "ARPT_NAME": "FRESNO YOSEMITE INTL",
         "HUB_SIZE": "Small",
         "CITY": "FRESNO",
@@ -300,6 +317,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SBA",
         "ARPT_NAME": "SANTA BARBARA MUNI",
         "HUB_SIZE": "Small",
         "CITY": "SANTA BARBARA",
@@ -317,6 +335,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LGB",
         "ARPT_NAME": "LONG BEACH (DAUGHERTY FLD)",
         "HUB_SIZE": "Small",
         "CITY": "LONG BEACH",
@@ -334,6 +353,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DEN",
         "ARPT_NAME": "DENVER INTL",
         "HUB_SIZE": "Large",
         "CITY": "DENVER",
@@ -351,6 +371,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "COS",
         "ARPT_NAME": "CITY OF COLORADO SPRINGS MUNI",
         "HUB_SIZE": "Medium",
         "CITY": "COLORADO SPRINGS",
@@ -368,6 +389,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BDL",
         "ARPT_NAME": "BRADLEY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "WINDSOR LOCKS",
@@ -385,6 +407,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DCA",
         "ARPT_NAME": "RONALD REAGAN WASHINGTON NTL",
         "HUB_SIZE": "Large",
         "CITY": "WASHINGTON",
@@ -402,6 +425,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MIA",
         "ARPT_NAME": "MIAMI INTL",
         "HUB_SIZE": "Large",
         "CITY": "MIAMI",
@@ -419,6 +443,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MCO",
         "ARPT_NAME": "ORLANDO INTL",
         "HUB_SIZE": "Large",
         "CITY": "ORLANDO",
@@ -436,6 +461,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TPA",
         "ARPT_NAME": "TAMPA INTL",
         "HUB_SIZE": "Large",
         "CITY": "TAMPA",
@@ -453,6 +479,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FLL",
         "ARPT_NAME": "FORT LAUDERDALE/HOLLYWOOD INTL",
         "HUB_SIZE": "Medium",
         "CITY": "FORT LAUDERDALE",
@@ -470,6 +497,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RSW",
         "ARPT_NAME": "SOUTHWEST FLORIDA INTL",
         "HUB_SIZE": "Medium",
         "CITY": "FORT MYERS",
@@ -487,6 +515,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JAX",
         "ARPT_NAME": "JACKSONVILLE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "JACKSONVILLE",
@@ -504,6 +533,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PNS",
         "ARPT_NAME": "PENSACOLA INTL",
         "HUB_SIZE": "Small",
         "CITY": "PENSACOLA",
@@ -521,6 +551,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SFB",
         "ARPT_NAME": "ORLANDO SANFORD INTL",
         "HUB_SIZE": "Small",
         "CITY": "ORLANDO",
@@ -538,6 +569,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TLH",
         "ARPT_NAME": "TALLAHASSEE INTL",
         "HUB_SIZE": "Small",
         "CITY": "TALLAHASSEE",
@@ -555,6 +587,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIE",
         "ARPT_NAME": "ST PETE-CLEARWATER INTL",
         "HUB_SIZE": "Small",
         "CITY": "ST PETERSBURG-CLEARWATER",
@@ -572,6 +605,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DAB",
         "ARPT_NAME": "DAYTONA BEACH INTL",
         "HUB_SIZE": "Small",
         "CITY": "DAYTONA BEACH",
@@ -589,6 +623,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ATL",
         "ARPT_NAME": "HARTSFIELD/JACKSON ATLANTA INTL",
         "HUB_SIZE": "Large",
         "CITY": "ATLANTA",
@@ -606,6 +641,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAV",
         "ARPT_NAME": "SAVANNAH/HILTON HEAD INTL",
         "HUB_SIZE": "Small",
         "CITY": "SAVANNAH",
@@ -623,6 +659,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BOI",
         "ARPT_NAME": "BOISE AIR TRML/GOWEN FLD",
         "HUB_SIZE": "Small",
         "CITY": "BOISE",
@@ -640,6 +677,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MDW",
         "ARPT_NAME": "CHICAGO MIDWAY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "CHICAGO",
@@ -657,6 +695,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IND",
         "ARPT_NAME": "INDIANAPOLIS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "INDIANAPOLIS",
@@ -674,6 +713,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SBN",
         "ARPT_NAME": "SOUTH BEND INTL",
         "HUB_SIZE": "Small",
         "CITY": "SOUTH BEND",
@@ -691,6 +731,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FWA",
         "ARPT_NAME": "FORT WAYNE INTL",
         "HUB_SIZE": "Small",
         "CITY": "FORT WAYNE",
@@ -708,6 +749,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CID",
         "ARPT_NAME": "THE EASTERN IOWA",
         "HUB_SIZE": "Small",
         "CITY": "CEDAR RAPIDS",
@@ -725,6 +767,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ICT",
         "ARPT_NAME": "WICHITA DWIGHT D EISENHOWER NTL",
         "HUB_SIZE": "Small",
         "CITY": "WICHITA",
@@ -742,6 +785,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CVG",
         "ARPT_NAME": "CINCINNATI/NORTHERN KENTUCKY INTL",
         "HUB_SIZE": "Large",
         "CITY": "COVINGTON",
@@ -759,6 +803,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LEX",
         "ARPT_NAME": "BLUE GRASS",
         "HUB_SIZE": "Small",
         "CITY": "LEXINGTON",
@@ -776,6 +821,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MSY",
         "ARPT_NAME": "LOUIS ARMSTRONG NEW ORLEANS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "NEW ORLEANS",
@@ -793,6 +839,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BTR",
         "ARPT_NAME": "BATON ROUGE METRO, RYAN FLD",
         "HUB_SIZE": "Small",
         "CITY": "BATON ROUGE",
@@ -810,6 +857,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SHV",
         "ARPT_NAME": "SHREVEPORT RGNL",
         "HUB_SIZE": "Small",
         "CITY": "SHREVEPORT",
@@ -827,6 +875,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PWM",
         "ARPT_NAME": "PORTLAND INTL JETPORT",
         "HUB_SIZE": "Small",
         "CITY": "PORTLAND",
@@ -844,6 +893,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BGR",
         "ARPT_NAME": "BANGOR INTL",
         "HUB_SIZE": "Small",
         "CITY": "BANGOR",
@@ -861,6 +911,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BWI",
         "ARPT_NAME": "BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL",
         "HUB_SIZE": "Large",
         "CITY": "BALTIMORE",
@@ -878,6 +929,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BOS",
         "ARPT_NAME": "GENERAL EDWARD LAWRENCE LOGAN INTL",
         "HUB_SIZE": "Large",
         "CITY": "BOSTON",
@@ -895,6 +947,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DTW",
         "ARPT_NAME": "DETROIT METRO WAYNE COUNTY",
         "HUB_SIZE": "Large",
         "CITY": "DETROIT",
@@ -912,6 +965,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GRR",
         "ARPT_NAME": "GERALD R FORD INTL",
         "HUB_SIZE": "Small",
         "CITY": "GRAND RAPIDS",
@@ -929,6 +983,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAN",
         "ARPT_NAME": "CAPITAL REGION INTL",
         "HUB_SIZE": "Small",
         "CITY": "LANSING",
@@ -946,6 +1001,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MSP",
         "ARPT_NAME": "MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN",
         "HUB_SIZE": "Large",
         "CITY": "MINNEAPOLIS",
@@ -963,6 +1019,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JAN",
         "ARPT_NAME": "JACKSON-MEDGAR WILEY EVERS INTL",
         "HUB_SIZE": "Small",
         "CITY": "JACKSON",
@@ -980,6 +1037,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "STL",
         "ARPT_NAME": "ST LOUIS LAMBERT INTL",
         "HUB_SIZE": "Large",
         "CITY": "ST LOUIS",
@@ -997,6 +1055,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MCI",
         "ARPT_NAME": "KANSAS CITY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "KANSAS CITY",
@@ -1014,6 +1073,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SGF",
         "ARPT_NAME": "SPRINGFIELD-BRANSON NTL",
         "HUB_SIZE": "Small",
         "CITY": "SPRINGFIELD",
@@ -1031,6 +1091,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OMA",
         "ARPT_NAME": "EPPLEY AIRFIELD",
         "HUB_SIZE": "Medium",
         "CITY": "OMAHA",
@@ -1048,6 +1109,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAS",
         "ARPT_NAME": "HARRY REID INTL",
         "HUB_SIZE": "Large",
         "CITY": "LAS VEGAS",
@@ -1065,6 +1127,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RNO",
         "ARPT_NAME": "RENO/TAHOE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "RENO",
@@ -1082,6 +1145,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MHT",
         "ARPT_NAME": "MANCHESTER BOSTON RGNL",
         "HUB_SIZE": "Small",
         "CITY": "MANCHESTER",
@@ -1099,6 +1163,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EWR",
         "ARPT_NAME": "NEWARK LIBERTY INTL",
         "HUB_SIZE": "Large",
         "CITY": "NEWARK",
@@ -1116,6 +1181,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ACY",
         "ARPT_NAME": "ATLANTIC CITY INTL",
         "HUB_SIZE": "Small",
         "CITY": "ATLANTIC CITY",
@@ -1133,6 +1199,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABQ",
         "ARPT_NAME": "ALBUQUERQUE INTL SUNPORT",
         "HUB_SIZE": "Medium",
         "CITY": "ALBUQUERQUE",
@@ -1150,6 +1217,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JFK",
         "ARPT_NAME": "JOHN F KENNEDY INTL",
         "HUB_SIZE": "Large",
         "CITY": "NEW YORK",
@@ -1167,6 +1235,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LGA",
         "ARPT_NAME": "LAGUARDIA",
         "HUB_SIZE": "Large",
         "CITY": "NEW YORK",
@@ -1184,6 +1253,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BUF",
         "ARPT_NAME": "BUFFALO NIAGARA INTL",
         "HUB_SIZE": "Small",
         "CITY": "BUFFALO",
@@ -1201,6 +1271,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ROC",
         "ARPT_NAME": "FREDERICK DOUGLASS/GREATER ROCHESTER INTL",
         "HUB_SIZE": "Small",
         "CITY": "ROCHESTER",
@@ -1218,6 +1289,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SYR",
         "ARPT_NAME": "SYRACUSE HANCOCK INTL",
         "HUB_SIZE": "Small",
         "CITY": "SYRACUSE",
@@ -1235,6 +1307,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ALB",
         "ARPT_NAME": "ALBANY INTL",
         "HUB_SIZE": "Small",
         "CITY": "ALBANY",
@@ -1252,6 +1325,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HPN",
         "ARPT_NAME": "WESTCHESTER COUNTY",
         "HUB_SIZE": "Small",
         "CITY": "WHITE PLAINS",
@@ -1269,6 +1343,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ISP",
         "ARPT_NAME": "LONG ISLAND MAC ARTHUR",
         "HUB_SIZE": "Small",
         "CITY": "NEW YORK",
@@ -1286,6 +1361,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SWF",
         "ARPT_NAME": "NEW YORK STEWART INTL",
         "HUB_SIZE": "Small",
         "CITY": "NEW YORK",
@@ -1303,6 +1379,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CLT",
         "ARPT_NAME": "CHARLOTTE/DOUGLAS INTL",
         "HUB_SIZE": "Large",
         "CITY": "CHARLOTTE",
@@ -1320,6 +1397,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RDU",
         "ARPT_NAME": "RALEIGH-DURHAM INTL",
         "HUB_SIZE": "Medium",
         "CITY": "RALEIGH/DURHAM",
@@ -1337,6 +1415,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GSO",
         "ARPT_NAME": "PIEDMONT TRIAD INTL",
         "HUB_SIZE": "Small",
         "CITY": "GREENSBORO",
@@ -1354,6 +1433,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CLE",
         "ARPT_NAME": "CLEVELAND-HOPKINS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "CLEVELAND",
@@ -1371,6 +1451,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CMH",
         "ARPT_NAME": "JOHN GLENN COLUMBUS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "COLUMBUS",
@@ -1388,6 +1469,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DAY",
         "ARPT_NAME": "JAMES M COX DAYTON INTL",
         "HUB_SIZE": "Small",
         "CITY": "DAYTON",
@@ -1405,6 +1487,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TOL",
         "ARPT_NAME": "EUGENE F KRANZ TOLEDO EXPRESS",
         "HUB_SIZE": "Small",
         "CITY": "TOLEDO",
@@ -1422,6 +1505,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OKC",
         "ARPT_NAME": "OKC WILL ROGERS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "OKLAHOMA CITY",
@@ -1439,6 +1523,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TUL",
         "ARPT_NAME": "TULSA INTL",
         "HUB_SIZE": "Medium",
         "CITY": "TULSA",
@@ -1456,6 +1541,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PDX",
         "ARPT_NAME": "PORTLAND INTL",
         "HUB_SIZE": "Medium",
         "CITY": "PORTLAND",
@@ -1473,6 +1559,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EUG",
         "ARPT_NAME": "MAHLON SWEET FLD",
         "HUB_SIZE": "Small",
         "CITY": "EUGENE",
@@ -1490,6 +1577,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PHL",
         "ARPT_NAME": "PHILADELPHIA INTL",
         "HUB_SIZE": "Large",
         "CITY": "PHILADELPHIA",
@@ -1507,6 +1595,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIT",
         "ARPT_NAME": "PITTSBURGH INTL",
         "HUB_SIZE": "Large",
         "CITY": "PITTSBURGH",
@@ -1524,6 +1613,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MDT",
         "ARPT_NAME": "HARRISBURG INTL",
         "HUB_SIZE": "Small",
         "CITY": "HARRISBURG",
@@ -1541,6 +1631,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABE",
         "ARPT_NAME": "LEHIGH VALLEY INTL",
         "HUB_SIZE": "Small",
         "CITY": "ALLENTOWN",
@@ -1558,6 +1649,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GSP",
         "ARPT_NAME": "GREENVILLE SPARTANBURG INTL",
         "HUB_SIZE": "Small",
         "CITY": "GREER",
@@ -1575,6 +1667,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MYR",
         "ARPT_NAME": "MYRTLE BEACH INTL",
         "HUB_SIZE": "Small",
         "CITY": "MYRTLE BEACH",
@@ -1592,6 +1685,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FSD",
         "ARPT_NAME": "JOE FOSS FLD",
         "HUB_SIZE": "Small",
         "CITY": "SIOUX FALLS",
@@ -1609,6 +1703,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MEM",
         "ARPT_NAME": "MEMPHIS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "MEMPHIS",
@@ -1626,6 +1721,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BNA",
         "ARPT_NAME": "NASHVILLE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "NASHVILLE",
@@ -1643,6 +1739,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TYS",
         "ARPT_NAME": "MC GHEE TYSON",
         "HUB_SIZE": "Small",
         "CITY": "KNOXVILLE",
@@ -1660,6 +1757,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DFW",
         "ARPT_NAME": "DALLAS-FORT WORTH INTL",
         "HUB_SIZE": "Large",
         "CITY": "DALLAS-FORT WORTH",
@@ -1677,6 +1775,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IAH",
         "ARPT_NAME": "GEORGE BUSH INTCNTL/HOUSTON",
         "HUB_SIZE": "Large",
         "CITY": "HOUSTON",
@@ -1694,6 +1793,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HOU",
         "ARPT_NAME": "WILLIAM P HOBBY",
         "HUB_SIZE": "Medium",
         "CITY": "HOUSTON",
@@ -1711,6 +1811,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DAL",
         "ARPT_NAME": "DALLAS LOVE FLD",
         "HUB_SIZE": "Medium",
         "CITY": "DALLAS",
@@ -1728,6 +1829,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAT",
         "ARPT_NAME": "SAN ANTONIO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SAN ANTONIO",
@@ -1745,6 +1847,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AUS",
         "ARPT_NAME": "AUSTIN-BERGSTROM INTL",
         "HUB_SIZE": "Medium",
         "CITY": "AUSTIN",
@@ -1762,6 +1865,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ELP",
         "ARPT_NAME": "EL PASO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "EL PASO",
@@ -1779,6 +1883,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LBB",
         "ARPT_NAME": "LUBBOCK PRESTON SMITH INTL",
         "HUB_SIZE": "Small",
         "CITY": "LUBBOCK",
@@ -1796,6 +1901,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MAF",
         "ARPT_NAME": "MIDLAND INTL AIR AND SPACE PORT",
         "HUB_SIZE": "Small",
         "CITY": "MIDLAND",
@@ -1813,6 +1919,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CRP",
         "ARPT_NAME": "CORPUS CHRISTI INTL",
         "HUB_SIZE": "Small",
         "CITY": "CORPUS CHRISTI",
@@ -1830,6 +1937,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HRL",
         "ARPT_NAME": "VALLEY INTL",
         "HUB_SIZE": "Small",
         "CITY": "HARLINGEN",
@@ -1847,6 +1955,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AMA",
         "ARPT_NAME": "RICK HUSBAND AMARILLO INTL",
         "HUB_SIZE": "Small",
         "CITY": "AMARILLO",
@@ -1864,6 +1973,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SLC",
         "ARPT_NAME": "SALT LAKE CITY INTL",
         "HUB_SIZE": "Large",
         "CITY": "SALT LAKE CITY",
@@ -1881,6 +1991,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BTV",
         "ARPT_NAME": "PATRICK LEAHY BURLINGTON INTL",
         "HUB_SIZE": "Small",
         "CITY": "BURLINGTON",
@@ -1898,6 +2009,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ORF",
         "ARPT_NAME": "NORFOLK INTL",
         "HUB_SIZE": "Small",
         "CITY": "NORFOLK",
@@ -1915,6 +2027,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RIC",
         "ARPT_NAME": "RICHMOND INTL",
         "HUB_SIZE": "Small",
         "CITY": "RICHMOND",
@@ -1932,6 +2045,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ROA",
         "ARPT_NAME": "ROANOKE/BLACKSBURG RGNL (WOODRUM FLD)",
         "HUB_SIZE": "Small",
         "CITY": "ROANOKE",
@@ -1949,6 +2063,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SEA",
         "ARPT_NAME": "SEATTLE-TACOMA INTL",
         "HUB_SIZE": "Large",
         "CITY": "SEATTLE",
@@ -1966,6 +2081,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GEG",
         "ARPT_NAME": "SPOKANE INTL",
         "HUB_SIZE": "Small",
         "CITY": "SPOKANE",
@@ -1983,6 +2099,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MKE",
         "ARPT_NAME": "GENERAL MITCHELL INTL",
         "HUB_SIZE": "Medium",
         "CITY": "MILWAUKEE",
@@ -2000,6 +2117,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MSN",
         "ARPT_NAME": "DANE COUNTY RGNL/TRUAX FLD",
         "HUB_SIZE": "Small",
         "CITY": "MADISON",
@@ -2017,6 +2135,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GRB",
         "ARPT_NAME": "GREEN BAY/AUSTIN STRAUBEL INTL",
         "HUB_SIZE": "Small",
         "CITY": "GREEN BAY",
@@ -2034,6 +2153,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DHN",
         "ARPT_NAME": "DOTHAN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DOTHAN",
@@ -2051,6 +2171,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MOB",
         "ARPT_NAME": "MOBILE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MOBILE",
@@ -2068,6 +2189,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MGM",
         "ARPT_NAME": "MONTGOMERY RGNL (DANNELLY FLD)",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MONTGOMERY",
@@ -2085,6 +2207,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FLG",
         "ARPT_NAME": "FLAGSTAFF PULLIAM",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FLAGSTAFF",
@@ -2102,6 +2225,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PGA",
         "ARPT_NAME": "PAGE MUNI",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PAGE",
@@ -2119,6 +2243,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PHX",
         "ARPT_NAME": "PHOENIX SKY HARBOR INTL",
         "HUB_SIZE": "Large",
         "CITY": "PHOENIX",
@@ -2136,6 +2261,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PRC",
         "ARPT_NAME": "PRESCOTT RGNL/ERNEST A LOVE FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PRESCOTT",
@@ -2153,6 +2279,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "NYL",
         "ARPT_NAME": "YUMA MCAS/YUMA INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "YUMA",
@@ -2170,6 +2297,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FSM",
         "ARPT_NAME": "FORT SMITH RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FORT SMITH",
@@ -2187,6 +2315,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TXK",
         "ARPT_NAME": "TEXARKANA RGNL-WEBB FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TEXARKANA",
@@ -2204,6 +2333,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ACV",
         "ARPT_NAME": "CALIFORNIA REDWOOD COAST-HUMBOLDT COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ARCATA/EUREKA",
@@ -2221,6 +2351,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BFL",
         "ARPT_NAME": "MEADOWS FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BAKERSFIELD",
@@ -2238,6 +2369,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BUR",
         "ARPT_NAME": "BOB HOPE",
         "HUB_SIZE": "Medium",
         "CITY": "BURBANK",
@@ -2255,6 +2387,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAX",
         "ARPT_NAME": "LOS ANGELES INTL",
         "HUB_SIZE": "Large",
         "CITY": "LOS ANGELES",
@@ -2272,6 +2405,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MRY",
         "ARPT_NAME": "MONTEREY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MONTEREY",
@@ -2289,6 +2423,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OAK",
         "ARPT_NAME": "SAN FRANCISCO BAY OAKLAND INTL",
         "HUB_SIZE": "Medium",
         "CITY": "OAKLAND",
@@ -2306,6 +2441,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ONT",
         "ARPT_NAME": "ONTARIO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "ONTARIO",
@@ -2323,6 +2459,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RDD",
         "ARPT_NAME": "REDDING RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "REDDING",
@@ -2340,6 +2477,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SMF",
         "ARPT_NAME": "SACRAMENTO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SACRAMENTO",
@@ -2357,6 +2495,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAN",
         "ARPT_NAME": "SAN DIEGO INTL",
         "HUB_SIZE": "Large",
         "CITY": "SAN DIEGO",
@@ -2374,6 +2513,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SFO",
         "ARPT_NAME": "SAN FRANCISCO INTL",
         "HUB_SIZE": "Large",
         "CITY": "SAN FRANCISCO",
@@ -2391,6 +2531,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SJC",
         "ARPT_NAME": "NORMAN Y MINETA SAN JOSE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SAN JOSE",
@@ -2408,6 +2549,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SBP",
         "ARPT_NAME": "SAN LUIS OBISPO COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SAN LUIS OBISPO",
@@ -2425,6 +2567,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SNA",
         "ARPT_NAME": "JOHN WAYNE/ORANGE COUNTY",
         "HUB_SIZE": "Medium",
         "CITY": "SANTA ANA",
@@ -2442,6 +2585,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SMX",
         "ARPT_NAME": "SANTA MARIA PUB/CAPT G ALLAN HANCOCK FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SANTA MARIA",
@@ -2459,6 +2603,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "STS",
         "ARPT_NAME": "CHARLES M SCHULZ/SONOMA COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SANTA ROSA",
@@ -2476,6 +2621,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SCK",
         "ARPT_NAME": "STOCKTON METRO",
         "HUB_SIZE": "Non-Hub",
         "CITY": "STOCKTON",
@@ -2493,6 +2639,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ALS",
         "ARPT_NAME": "SAN LUIS VALLEY RGNL/BERGMAN FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ALAMOSA",
@@ -2510,6 +2657,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ASE",
         "ARPT_NAME": "ASPEN-PITKIN COUNTY/SARDY FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ASPEN",
@@ -2527,6 +2675,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DEN",
         "ARPT_NAME": "DENVER INTL",
         "HUB_SIZE": "Large",
         "CITY": "DENVER",
@@ -2544,6 +2693,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DRO",
         "ARPT_NAME": "DURANGO-LA PLATA COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DURANGO",
@@ -2561,6 +2711,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EGE",
         "ARPT_NAME": "EAGLE COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "EAGLE",
@@ -2578,6 +2729,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GJT",
         "ARPT_NAME": "GRAND JUNCTION RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GRAND JUNCTION",
@@ -2595,6 +2747,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GUC",
         "ARPT_NAME": "GUNNISON-CRESTED BUTTE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GUNNISON",
@@ -2612,6 +2765,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HDN",
         "ARPT_NAME": "YAMPA VALLEY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HAYDEN",
@@ -2629,6 +2783,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MTJ",
         "ARPT_NAME": "MONTROSE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MONTROSE",
@@ -2646,6 +2801,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HVN",
         "ARPT_NAME": "TWEED/NEW HAVEN",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NEW HAVEN",
@@ -2663,6 +2819,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BDL",
         "ARPT_NAME": "BRADLEY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "WINDSOR LOCKS",
@@ -2680,6 +2837,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ILG",
         "ARPT_NAME": "NEW CASTLE",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WILMINGTON",
@@ -2697,6 +2855,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DCA",
         "ARPT_NAME": "RONALD REAGAN WASHINGTON NTL",
         "HUB_SIZE": "Large",
         "CITY": "WASHINGTON",
@@ -2714,6 +2873,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IAD",
         "ARPT_NAME": "WASHINGTON DULLES INTL",
         "HUB_SIZE": "Large",
         "CITY": "WASHINGTON",
@@ -2731,6 +2891,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DAB",
         "ARPT_NAME": "DAYTONA BEACH INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DAYTONA BEACH",
@@ -2748,6 +2909,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FLL",
         "ARPT_NAME": "FORT LAUDERDALE/HOLLYWOOD INTL",
         "HUB_SIZE": "Large",
         "CITY": "FORT LAUDERDALE",
@@ -2765,6 +2927,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RSW",
         "ARPT_NAME": "SOUTHWEST FLORIDA INTL",
         "HUB_SIZE": "Medium",
         "CITY": "FORT MYERS",
@@ -2782,6 +2945,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GNV",
         "ARPT_NAME": "GAINESVILLE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GAINESVILLE",
@@ -2799,6 +2963,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JAX",
         "ARPT_NAME": "JACKSONVILLE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "JACKSONVILLE",
@@ -2816,6 +2981,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MLB",
         "ARPT_NAME": "MELBOURNE ORLANDO INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MELBOURNE",
@@ -2833,6 +2999,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MIA",
         "ARPT_NAME": "MIAMI INTL",
         "HUB_SIZE": "Large",
         "CITY": "MIAMI",
@@ -2850,6 +3017,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MCO",
         "ARPT_NAME": "ORLANDO INTL",
         "HUB_SIZE": "Large",
         "CITY": "ORLANDO",
@@ -2867,6 +3035,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TLH",
         "ARPT_NAME": "TALLAHASSEE INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TALLAHASSEE",
@@ -2884,6 +3053,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TPA",
         "ARPT_NAME": "TAMPA INTL",
         "HUB_SIZE": "Large",
         "CITY": "TAMPA",
@@ -2901,6 +3071,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PBI",
         "ARPT_NAME": "PALM BEACH INTL",
         "HUB_SIZE": "Medium",
         "CITY": "WEST PALM BEACH",
@@ -2918,6 +3089,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABY",
         "ARPT_NAME": "SOUTHWEST GEORGIA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ALBANY",
@@ -2935,6 +3107,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ATL",
         "ARPT_NAME": "HARTSFIELD/JACKSON ATLANTA INTL",
         "HUB_SIZE": "Large",
         "CITY": "ATLANTA",
@@ -2952,6 +3125,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AGS",
         "ARPT_NAME": "AUGUSTA RGNL AT BUSH FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "AUGUSTA",
@@ -2969,6 +3143,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BQK",
         "ARPT_NAME": "BRUNSWICK GOLDEN ISLES",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BRUNSWICK",
@@ -2986,6 +3161,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CSG",
         "ARPT_NAME": "COLUMBUS",
         "HUB_SIZE": "Non-Hub",
         "CITY": "COLUMBUS",
@@ -3003,6 +3179,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MCN",
         "ARPT_NAME": "MIDDLE GEORGIA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MACON",
@@ -3020,6 +3197,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "VLD",
         "ARPT_NAME": "VALDOSTA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "VALDOSTA",
@@ -3037,6 +3215,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BOI",
         "ARPT_NAME": "BOISE AIR TRML/GOWEN FLD",
         "HUB_SIZE": "Medium",
         "CITY": "BOISE",
@@ -3054,6 +3233,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SUN",
         "ARPT_NAME": "FRIEDMAN MEML",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HAILEY",
@@ -3071,6 +3251,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IDA",
         "ARPT_NAME": "IDAHO FALLS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "IDAHO FALLS",
@@ -3088,6 +3269,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LWS",
         "ARPT_NAME": "LEWISTON/NEZ PERCE COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LEWISTON",
@@ -3105,6 +3287,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIH",
         "ARPT_NAME": "POCATELLO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "POCATELLO",
@@ -3122,6 +3305,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TWF",
         "ARPT_NAME": "JOSLIN FLD/MAGIC VALLEY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TWIN FALLS",
@@ -3139,6 +3323,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BLV",
         "ARPT_NAME": "SCOTT AFB/MIDAMERICA ST LOUIS",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BELLEVILLE",
@@ -3156,6 +3341,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BMI",
         "ARPT_NAME": "CENTRAL IL RGNL/BLOOMINGTON-NORMAL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BLOOMINGTON/NORMAL",
@@ -3173,6 +3359,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CMI",
         "ARPT_NAME": "UNIVERSITY OF ILLINOIS/WILLARD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CHAMPAIGN/URBANA",
@@ -3190,6 +3377,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MDW",
         "ARPT_NAME": "CHICAGO MIDWAY INTL",
         "HUB_SIZE": "Large",
         "CITY": "CHICAGO",
@@ -3207,6 +3395,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ORD",
         "ARPT_NAME": "CHICAGO O'HARE INTL",
         "HUB_SIZE": "Large",
         "CITY": "CHICAGO",
@@ -3224,6 +3413,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MWA",
         "ARPT_NAME": "VETERANS AIRPORT OF SOUTHERN ILLINOIS",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MARION",
@@ -3241,6 +3431,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MLI",
         "ARPT_NAME": "QUAD CITIES INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MOLINE",
@@ -3258,6 +3449,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIA",
         "ARPT_NAME": "GENERAL DOWNING - PEORIA INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PEORIA",
@@ -3275,6 +3467,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RFD",
         "ARPT_NAME": "CHICAGO/ROCKFORD INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CHICAGO/ROCKFORD",
@@ -3292,6 +3485,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SPI",
         "ARPT_NAME": "ABRAHAM LINCOLN CAPITAL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SPRINGFIELD",
@@ -3309,6 +3503,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EVV",
         "ARPT_NAME": "EVANSVILLE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "EVANSVILLE",
@@ -3326,6 +3521,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IND",
         "ARPT_NAME": "INDIANAPOLIS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "INDIANAPOLIS",
@@ -3343,6 +3539,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DBQ",
         "ARPT_NAME": "DUBUQUE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DUBUQUE",
@@ -3360,6 +3557,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SUX",
         "ARPT_NAME": "SIOUX GATEWAY/BRIG GENERAL BUD DAY FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SIOUX CITY",
@@ -3377,6 +3575,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ALO",
         "ARPT_NAME": "WATERLOO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WATERLOO",
@@ -3394,6 +3593,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GCK",
         "ARPT_NAME": "GARDEN CITY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GARDEN CITY",
@@ -3411,6 +3611,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HYS",
         "ARPT_NAME": "HAYS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HAYS",
@@ -3428,6 +3629,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MHK",
         "ARPT_NAME": "MANHATTAN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MANHATTAN",
@@ -3445,6 +3647,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SLN",
         "ARPT_NAME": "SALINA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SALINA",
@@ -3462,6 +3665,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CVG",
         "ARPT_NAME": "CINCINNATI/NORTHERN KENTUCKY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "COVINGTON",
@@ -3479,6 +3683,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OWB",
         "ARPT_NAME": "OWENSBORO/DAVIESS COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "OWENSBORO",
@@ -3496,6 +3701,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PAH",
         "ARPT_NAME": "BARKLEY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PADUCAH",
@@ -3513,6 +3719,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AEX",
         "ARPT_NAME": "ALEXANDRIA INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ALEXANDRIA",
@@ -3530,6 +3737,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BTR",
         "ARPT_NAME": "BATON ROUGE METRO, RYAN FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BATON ROUGE",
@@ -3547,6 +3755,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LFT",
         "ARPT_NAME": "LAFAYETTE RGNL/PAUL FOURNET FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LAFAYETTE",
@@ -3564,6 +3773,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LCH",
         "ARPT_NAME": "LAKE CHARLES RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LAKE CHARLES",
@@ -3581,6 +3791,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MLU",
         "ARPT_NAME": "MONROE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MONROE",
@@ -3598,6 +3809,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MSY",
         "ARPT_NAME": "LOUIS ARMSTRONG NEW ORLEANS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "NEW ORLEANS",
@@ -3615,6 +3827,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SHV",
         "ARPT_NAME": "SHREVEPORT RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SHREVEPORT",
@@ -3632,6 +3845,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BGR",
         "ARPT_NAME": "BANGOR INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BANGOR",
@@ -3649,6 +3863,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PQI",
         "ARPT_NAME": "PRESQUE ISLE INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PRESQUE ISLE",
@@ -3666,6 +3881,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RKD",
         "ARPT_NAME": "KNOX COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ROCKLAND",
@@ -3683,6 +3899,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BWI",
         "ARPT_NAME": "BALTIMORE/WASHINGTON INTL THURGOOD MARSHALL",
         "HUB_SIZE": "Large",
         "CITY": "BALTIMORE",
@@ -3700,6 +3917,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HGR",
         "ARPT_NAME": "HAGERSTOWN RGNL/RICHARD A HENSON FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HAGERSTOWN",
@@ -3717,6 +3935,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SBY",
         "ARPT_NAME": "SALISBURY-OCEAN CITY WICOMICO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SALISBURY",
@@ -3734,6 +3953,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BOS",
         "ARPT_NAME": "GENERAL EDWARD LAWRENCE LOGAN INTL",
         "HUB_SIZE": "Large",
         "CITY": "BOSTON",
@@ -3751,6 +3971,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HYA",
         "ARPT_NAME": "CAPE COD GATEWAY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HYANNIS",
@@ -3768,6 +3989,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ACK",
         "ARPT_NAME": "NANTUCKET MEML",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NANTUCKET",
@@ -3785,6 +4007,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MVY",
         "ARPT_NAME": "MARTHA'S VINEYARD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "VINEYARD HAVEN",
@@ -3802,6 +4025,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ORH",
         "ARPT_NAME": "WORCESTER RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WORCESTER",
@@ -3819,6 +4043,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "APN",
         "ARPT_NAME": "ALPENA COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ALPENA",
@@ -3836,6 +4061,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DTW",
         "ARPT_NAME": "DETROIT METRO WAYNE COUNTY",
         "HUB_SIZE": "Large",
         "CITY": "DETROIT",
@@ -3853,6 +4079,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ESC",
         "ARPT_NAME": "DELTA COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ESCANABA",
@@ -3870,6 +4097,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FNT",
         "ARPT_NAME": "BISHOP INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FLINT",
@@ -3887,6 +4115,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CMX",
         "ARPT_NAME": "HOUGHTON COUNTY MEML",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HANCOCK",
@@ -3904,6 +4133,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IMT",
         "ARPT_NAME": "FORD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "IRON MOUNTAIN KINGSFORD",
@@ -3921,6 +4151,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AZO",
         "ARPT_NAME": "KALAMAZOO/BATTLE CREEK INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "KALAMAZOO",
@@ -3938,6 +4169,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAN",
         "ARPT_NAME": "CAPITAL REGION INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LANSING",
@@ -3955,6 +4187,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAW",
         "ARPT_NAME": "MARQUETTE/SAWYER RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MARQUETTE",
@@ -3972,6 +4205,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MKG",
         "ARPT_NAME": "MUSKEGON COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MUSKEGON",
@@ -3989,6 +4223,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PLN",
         "ARPT_NAME": "PELLSTON RGNL/EMMET COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PELLSTON",
@@ -4006,6 +4241,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MBS",
         "ARPT_NAME": "MBS INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SAGINAW",
@@ -4023,6 +4259,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CIU",
         "ARPT_NAME": "CHIPPEWA COUNTY INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SAULT STE MARIE",
@@ -4040,6 +4277,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TVC",
         "ARPT_NAME": "CHERRY CAPITAL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TRAVERSE CITY",
@@ -4057,6 +4295,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BJI",
         "ARPT_NAME": "BEMIDJI RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BEMIDJI",
@@ -4074,6 +4313,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BRD",
         "ARPT_NAME": "BRAINERD LAKES RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BRAINERD",
@@ -4091,6 +4331,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DLH",
         "ARPT_NAME": "DULUTH INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DULUTH",
@@ -4108,6 +4349,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HIB",
         "ARPT_NAME": "RANGE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HIBBING",
@@ -4125,6 +4367,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MSP",
         "ARPT_NAME": "MINNEAPOLIS-ST PAUL INTL/WOLD-CHAMBERLAIN",
         "HUB_SIZE": "Large",
         "CITY": "MINNEAPOLIS",
@@ -4142,6 +4385,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RST",
         "ARPT_NAME": "ROCHESTER INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ROCHESTER",
@@ -4159,6 +4403,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "STC",
         "ARPT_NAME": "ST CLOUD RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ST CLOUD",
@@ -4176,6 +4421,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GTR",
         "ARPT_NAME": "GOLDEN TRIANGLE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "COLUMBUS/W POINT/STARKVILLE",
@@ -4193,6 +4439,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GPT",
         "ARPT_NAME": "GULFPORT-BILOXI INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GULFPORT",
@@ -4210,6 +4457,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIB",
         "ARPT_NAME": "HATTIESBURG/LAUREL RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HATTIESBURG-LAUREL",
@@ -4227,6 +4475,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MEI",
         "ARPT_NAME": "KEY FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MERIDIAN",
@@ -4244,6 +4493,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TUP",
         "ARPT_NAME": "TUPELO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TUPELO",
@@ -4261,6 +4511,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BBG",
         "ARPT_NAME": "BRANSON",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BRANSON",
@@ -4278,6 +4529,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "COU",
         "ARPT_NAME": "COLUMBIA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "COLUMBIA",
@@ -4295,6 +4547,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TBN",
         "ARPT_NAME": "WAYNESVILLE-ST ROBERT RGNL FORNEY FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FORT LEONARD WOOD",
@@ -4312,6 +4565,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JLN",
         "ARPT_NAME": "JOPLIN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "JOPLIN",
@@ -4329,6 +4583,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MCI",
         "ARPT_NAME": "KANSAS CITY INTL",
         "HUB_SIZE": "Medium",
         "CITY": "KANSAS CITY",
@@ -4346,6 +4601,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "STL",
         "ARPT_NAME": "ST LOUIS LAMBERT INTL",
         "HUB_SIZE": "Medium",
         "CITY": "ST LOUIS",
@@ -4363,6 +4619,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BTM",
         "ARPT_NAME": "BERT MOONEY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BUTTE",
@@ -4380,6 +4637,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GTF",
         "ARPT_NAME": "GREAT FALLS INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GREAT FALLS",
@@ -4397,6 +4655,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HLN",
         "ARPT_NAME": "HELENA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HELENA",
@@ -4414,6 +4673,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "WYS",
         "ARPT_NAME": "YELLOWSTONE",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WEST YELLOWSTONE",
@@ -4431,6 +4691,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GRI",
         "ARPT_NAME": "CENTRAL NEBRASKA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GRAND ISLAND",
@@ -4448,6 +4709,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EAR",
         "ARPT_NAME": "KEARNEY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "KEARNEY",
@@ -4465,6 +4727,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LNK",
         "ARPT_NAME": "LINCOLN",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LINCOLN",
@@ -4482,6 +4745,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LBF",
         "ARPT_NAME": "NORTH PLATTE RGNL/LEE BIRD FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NORTH PLATTE",
@@ -4499,6 +4763,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OMA",
         "ARPT_NAME": "EPPLEY AIRFIELD",
         "HUB_SIZE": "Medium",
         "CITY": "OMAHA",
@@ -4516,6 +4781,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BFF",
         "ARPT_NAME": "SCOTTSBLUFF/WESTERN NEBRASKA RGNL/WM  B HEILIG FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SCOTTSBLUFF",
@@ -4533,6 +4799,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BVU",
         "ARPT_NAME": "BOULDER CITY MUNI",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BOULDER CITY",
@@ -4550,6 +4817,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EKO",
         "ARPT_NAME": "ELKO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ELKO",
@@ -4567,6 +4835,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAS",
         "ARPT_NAME": "HARRY REID INTL",
         "HUB_SIZE": "Large",
         "CITY": "LAS VEGAS",
@@ -4584,6 +4853,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RNO",
         "ARPT_NAME": "RENO/TAHOE INTL",
         "HUB_SIZE": "Medium",
         "CITY": "RENO",
@@ -4601,6 +4871,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PSM",
         "ARPT_NAME": "PORTSMOUTH INTL AT PEASE",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PORTSMOUTH",
@@ -4618,6 +4889,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EWR",
         "ARPT_NAME": "NEWARK LIBERTY INTL",
         "HUB_SIZE": "Large",
         "CITY": "NEWARK",
@@ -4635,6 +4907,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TTN",
         "ARPT_NAME": "TRENTON MERCER",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TRENTON",
@@ -4652,6 +4925,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABQ",
         "ARPT_NAME": "ALBUQUERQUE INTL SUNPORT",
         "HUB_SIZE": "Medium",
         "CITY": "ALBUQUERQUE",
@@ -4669,6 +4943,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HOB",
         "ARPT_NAME": "LEA COUNTY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HOBBS",
@@ -4686,6 +4961,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ROW",
         "ARPT_NAME": "ROSWELL AIR CENTER",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ROSWELL",
@@ -4703,6 +4979,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAF",
         "ARPT_NAME": "SANTA FE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SANTA FE",
@@ -4720,6 +4997,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BGM",
         "ARPT_NAME": "GREATER BINGHAMTON/EDWIN A LINK FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BINGHAMTON",
@@ -4737,6 +5015,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ELM",
         "ARPT_NAME": "ELMIRA/CORNING RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ELMIRA/CORNING",
@@ -4754,6 +5033,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ITH",
         "ARPT_NAME": "ITHACA TOMPKINS INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ITHACA",
@@ -4771,6 +5051,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SWF",
         "ARPT_NAME": "NEW YORK STEWART INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NEW YORK",
@@ -4788,6 +5069,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JFK",
         "ARPT_NAME": "JOHN F KENNEDY INTL",
         "HUB_SIZE": "Large",
         "CITY": "NEW YORK",
@@ -4805,6 +5087,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LGA",
         "ARPT_NAME": "LAGUARDIA",
         "HUB_SIZE": "Large",
         "CITY": "NEW YORK",
@@ -4822,6 +5105,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IAG",
         "ARPT_NAME": "NIAGARA FALLS INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NIAGARA FALLS",
@@ -4839,6 +5123,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OGS",
         "ARPT_NAME": "OGDENSBURG INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "OGDENSBURG",
@@ -4856,6 +5141,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PBG",
         "ARPT_NAME": "PLATTSBURGH INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PLATTSBURGH",
@@ -4873,6 +5159,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ART",
         "ARPT_NAME": "WATERTOWN INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WATERTOWN",
@@ -4890,6 +5177,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CLT",
         "ARPT_NAME": "CHARLOTTE/DOUGLAS INTL",
         "HUB_SIZE": "Large",
         "CITY": "CHARLOTTE",
@@ -4907,6 +5195,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JQF",
         "ARPT_NAME": "CONCORD-PADGETT RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CONCORD",
@@ -4924,6 +5213,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FAY",
         "ARPT_NAME": "FAYETTEVILLE RGNL/GRANNIS FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FAYETTEVILLE",
@@ -4941,6 +5231,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PGV",
         "ARPT_NAME": "PITT-GREENVILLE",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GREENVILLE",
@@ -4958,6 +5249,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OAJ",
         "ARPT_NAME": "ALBERT J ELLIS",
         "HUB_SIZE": "Non-Hub",
         "CITY": "JACKSONVILLE",
@@ -4975,6 +5267,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EWN",
         "ARPT_NAME": "COASTAL CAROLINA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NEW BERN",
@@ -4992,6 +5285,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RDU",
         "ARPT_NAME": "RALEIGH-DURHAM INTL",
         "HUB_SIZE": "Medium",
         "CITY": "RALEIGH/DURHAM",
@@ -5009,6 +5303,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BIS",
         "ARPT_NAME": "BISMARCK MUNI",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BISMARCK",
@@ -5026,6 +5321,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DIK",
         "ARPT_NAME": "DICKINSON/THEODORE ROOSEVELT RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DICKINSON",
@@ -5043,6 +5339,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GFK",
         "ARPT_NAME": "GRAND FORKS INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GRAND FORKS",
@@ -5060,6 +5357,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "JMS",
         "ARPT_NAME": "JAMESTOWN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "JAMESTOWN",
@@ -5077,6 +5375,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MOT",
         "ARPT_NAME": "MINOT INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MINOT",
@@ -5094,6 +5393,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "XWA",
         "ARPT_NAME": "WILLISTON BASIN INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WILLISTON",
@@ -5111,6 +5411,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CAK",
         "ARPT_NAME": "AKRON-CANTON RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "AKRON",
@@ -5128,6 +5429,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CLE",
         "ARPT_NAME": "CLEVELAND-HOPKINS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "CLEVELAND",
@@ -5145,6 +5447,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LCK",
         "ARPT_NAME": "RICKENBACKER INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "COLUMBUS",
@@ -5162,6 +5465,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CMH",
         "ARPT_NAME": "JOHN GLENN COLUMBUS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "COLUMBUS",
@@ -5179,6 +5483,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TOL",
         "ARPT_NAME": "EUGENE F KRANZ TOLEDO EXPRESS",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TOLEDO",
@@ -5196,6 +5501,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAW",
         "ARPT_NAME": "LAWTON-FORT SILL RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LAWTON",
@@ -5213,6 +5519,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SWO",
         "ARPT_NAME": "STILLWATER RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "STILLWATER",
@@ -5230,6 +5537,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OTH",
         "ARPT_NAME": "SOUTHWEST OREGON RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NORTH BEND",
@@ -5247,6 +5555,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PDX",
         "ARPT_NAME": "PORTLAND INTL",
         "HUB_SIZE": "Medium",
         "CITY": "PORTLAND",
@@ -5264,6 +5573,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ERI",
         "ARPT_NAME": "ERIE INTL/TOM RIDGE FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ERIE",
@@ -5281,6 +5591,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LBE",
         "ARPT_NAME": "ARNOLD PALMER RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LATROBE",
@@ -5298,6 +5609,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PHL",
         "ARPT_NAME": "PHILADELPHIA INTL",
         "HUB_SIZE": "Large",
         "CITY": "PHILADELPHIA",
@@ -5315,6 +5627,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIT",
         "ARPT_NAME": "PITTSBURGH INTL",
         "HUB_SIZE": "Medium",
         "CITY": "PITTSBURGH",
@@ -5332,6 +5645,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "UNV",
         "ARPT_NAME": "STATE COLLEGE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "STATE COLLEGE",
@@ -5349,6 +5663,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AVP",
         "ARPT_NAME": "WILKES-BARRE/SCRANTON INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WILKES-BARRE/SCRANTON",
@@ -5366,6 +5681,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CHS",
         "ARPT_NAME": "CHARLESTON AFB/INTL",
         "HUB_SIZE": "Medium",
         "CITY": "CHARLESTON",
@@ -5383,6 +5699,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FLO",
         "ARPT_NAME": "FLORENCE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FLORENCE",
@@ -5400,6 +5717,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HXD",
         "ARPT_NAME": "HILTON HEAD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HILTON HEAD ISLAND",
@@ -5417,6 +5735,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABR",
         "ARPT_NAME": "ABERDEEN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ABERDEEN",
@@ -5434,6 +5753,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PIR",
         "ARPT_NAME": "PIERRE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PIERRE",
@@ -5451,6 +5771,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ATY",
         "ARPT_NAME": "WATERTOWN RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WATERTOWN",
@@ -5468,6 +5789,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TRI",
         "ARPT_NAME": "TRI-CITIES",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BRISTOL/JOHNSON/KINGSPORT",
@@ -5485,6 +5807,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MEM",
         "ARPT_NAME": "MEMPHIS INTL",
         "HUB_SIZE": "Medium",
         "CITY": "MEMPHIS",
@@ -5502,6 +5825,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BNA",
         "ARPT_NAME": "NASHVILLE INTL",
         "HUB_SIZE": "Large",
         "CITY": "NASHVILLE",
@@ -5519,6 +5843,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ABI",
         "ARPT_NAME": "ABILENE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ABILENE",
@@ -5536,6 +5861,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AMA",
         "ARPT_NAME": "RICK HUSBAND AMARILLO INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "AMARILLO",
@@ -5553,6 +5879,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "AUS",
         "ARPT_NAME": "AUSTIN-BERGSTROM INTL",
         "HUB_SIZE": "Large",
         "CITY": "AUSTIN",
@@ -5570,6 +5897,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BPT",
         "ARPT_NAME": "JACK BROOKS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BEAUMONT/PORT ARTHUR",
@@ -5587,6 +5915,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BRO",
         "ARPT_NAME": "BROWNSVILLE/SOUTH PADRE ISLAND INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BROWNSVILLE",
@@ -5604,6 +5933,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CLL",
         "ARPT_NAME": "EASTERWOOD FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "COLLEGE STATION",
@@ -5621,6 +5951,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CRP",
         "ARPT_NAME": "CORPUS CHRISTI INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CORPUS CHRISTI",
@@ -5638,6 +5969,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DFW",
         "ARPT_NAME": "DALLAS-FORT WORTH INTL",
         "HUB_SIZE": "Large",
         "CITY": "DALLAS-FORT WORTH",
@@ -5655,6 +5987,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DAL",
         "ARPT_NAME": "DALLAS LOVE FLD",
         "HUB_SIZE": "Medium",
         "CITY": "DALLAS",
@@ -5672,6 +6005,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "DRT",
         "ARPT_NAME": "DEL RIO INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "DEL RIO",
@@ -5689,6 +6023,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GRK",
         "ARPT_NAME": "ROBERT GRAY AAF",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FORT CAVAZOS (KILLEEN)",
@@ -5706,6 +6041,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HOU",
         "ARPT_NAME": "WILLIAM P HOBBY",
         "HUB_SIZE": "Medium",
         "CITY": "HOUSTON",
@@ -5723,6 +6059,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "IAH",
         "ARPT_NAME": "GEORGE BUSH INTCNTL/HOUSTON",
         "HUB_SIZE": "Large",
         "CITY": "HOUSTON",
@@ -5740,6 +6077,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LRD",
         "ARPT_NAME": "LAREDO INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LAREDO",
@@ -5757,6 +6095,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GGG",
         "ARPT_NAME": "EAST TEXAS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LONGVIEW",
@@ -5774,6 +6113,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SJT",
         "ARPT_NAME": "SAN ANGELO RGNL/MATHIS FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SAN ANGELO",
@@ -5791,6 +6131,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SAT",
         "ARPT_NAME": "SAN ANTONIO INTL",
         "HUB_SIZE": "Medium",
         "CITY": "SAN ANTONIO",
@@ -5808,6 +6149,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "TYR",
         "ARPT_NAME": "TYLER POUNDS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "TYLER",
@@ -5825,6 +6167,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ACT",
         "ARPT_NAME": "WACO RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WACO",
@@ -5842,6 +6185,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SPS",
         "ARPT_NAME": "SHEPPARD AFB/WICHITA FALLS MUNI",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WICHITA FALLS",
@@ -5859,6 +6203,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CDC",
         "ARPT_NAME": "CEDAR CITY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CEDAR CITY",
@@ -5876,6 +6221,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CNY",
         "ARPT_NAME": "CANYONLANDS RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MOAB",
@@ -5893,6 +6239,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "OGD",
         "ARPT_NAME": "OGDEN-HINCKLEY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "OGDEN",
@@ -5910,6 +6257,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PVU",
         "ARPT_NAME": "PROVO MUNI",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PROVO",
@@ -5927,6 +6275,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SGU",
         "ARPT_NAME": "ST GEORGE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ST GEORGE",
@@ -5944,6 +6293,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SLC",
         "ARPT_NAME": "SALT LAKE CITY INTL",
         "HUB_SIZE": "Large",
         "CITY": "SALT LAKE CITY",
@@ -5961,6 +6311,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CHO",
         "ARPT_NAME": "CHARLOTTESVILLE-ALBEMARLE",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CHARLOTTESVILLE",
@@ -5978,6 +6329,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LYH",
         "ARPT_NAME": "LYNCHBURG RGNL/PRESTON GLENN FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LYNCHBURG",
@@ -5995,6 +6347,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PHF",
         "ARPT_NAME": "NEWPORT NEWS/WILLIAMSBURG INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "NEWPORT NEWS",
@@ -6012,6 +6365,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ORF",
         "ARPT_NAME": "NORFOLK INTL",
         "HUB_SIZE": "Medium",
         "CITY": "NORFOLK",
@@ -6029,6 +6383,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ROA",
         "ARPT_NAME": "ROANOKE/BLACKSBURG RGNL (WOODRUM FLD)",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ROANOKE",
@@ -6046,6 +6401,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SHD",
         "ARPT_NAME": "SHENANDOAH VALLEY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "STAUNTON/WAYNESBORO/HARRISONBURG",
@@ -6063,6 +6419,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BLI",
         "ARPT_NAME": "BELLINGHAM INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "BELLINGHAM",
@@ -6080,6 +6437,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ORS",
         "ARPT_NAME": "ORCAS ISLAND",
         "HUB_SIZE": "Non-Hub",
         "CITY": "EASTSOUND",
@@ -6097,6 +6455,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PAE",
         "ARPT_NAME": "SEATTLE PAINE FLD INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "EVERETT",
@@ -6114,6 +6473,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "FHR",
         "ARPT_NAME": "FRIDAY HARBOR",
         "HUB_SIZE": "Non-Hub",
         "CITY": "FRIDAY HARBOR",
@@ -6131,6 +6491,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "PUW",
         "ARPT_NAME": "PULLMAN/MOSCOW RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "PULLMAN/MOSCOW",
@@ -6148,6 +6509,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SEA",
         "ARPT_NAME": "SEATTLE-TACOMA INTL",
         "HUB_SIZE": "Large",
         "CITY": "SEATTLE",
@@ -6165,6 +6527,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "BFI",
         "ARPT_NAME": "BOEING FLD/KING COUNTY INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SEATTLE",
@@ -6182,6 +6545,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "ALW",
         "ARPT_NAME": "WALLA WALLA RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WALLA WALLA",
@@ -6199,6 +6563,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EAT",
         "ARPT_NAME": "PANGBORN MEML",
         "HUB_SIZE": "Non-Hub",
         "CITY": "WENATCHEE",
@@ -6216,6 +6581,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "YKM",
         "ARPT_NAME": "YAKIMA AIR TRML/MCALLISTER FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "YAKIMA",
@@ -6233,6 +6599,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CRW",
         "ARPT_NAME": "WEST VIRGINIA INTL YEAGER",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CHARLESTON",
@@ -6250,6 +6617,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CKB",
         "ARPT_NAME": "NORTH CENTRAL WEST VIRGINIA",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CLARKSBURG",
@@ -6267,6 +6635,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "HTS",
         "ARPT_NAME": "TRI-STATE/MILTON J FERGUSON FLD",
         "HUB_SIZE": "Non-Hub",
         "CITY": "HUNTINGTON",
@@ -6284,6 +6653,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LWB",
         "ARPT_NAME": "GREENBRIER VALLEY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LEWISBURG",
@@ -6301,6 +6671,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "EAU",
         "ARPT_NAME": "CHIPPEWA VALLEY RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "EAU CLAIRE",
@@ -6318,6 +6689,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GRB",
         "ARPT_NAME": "GREEN BAY/AUSTIN STRAUBEL INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GREEN BAY",
@@ -6335,6 +6707,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LSE",
         "ARPT_NAME": "LA CROSSE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LA CROSSE",
@@ -6352,6 +6725,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "MKE",
         "ARPT_NAME": "GENERAL MITCHELL INTL",
         "HUB_SIZE": "Medium",
         "CITY": "MILWAUKEE",
@@ -6369,6 +6743,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CWA",
         "ARPT_NAME": "CENTRAL WISCONSIN",
         "HUB_SIZE": "Non-Hub",
         "CITY": "MOSINEE",
@@ -6386,6 +6761,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RHI",
         "ARPT_NAME": "RHINELANDER/ONEIDA COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "RHINELANDER",
@@ -6403,6 +6779,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "CPR",
         "ARPT_NAME": "CASPER/NATRONA COUNTY INTL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CASPER",
@@ -6420,6 +6797,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "COD",
         "ARPT_NAME": "YELLOWSTONE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "CODY",
@@ -6437,6 +6815,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "GCC",
         "ARPT_NAME": "NORTHEAST WYOMING RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "GILLETTE",
@@ -6454,6 +6833,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "LAR",
         "ARPT_NAME": "LARAMIE RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "LARAMIE",
@@ -6471,6 +6851,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RIW",
         "ARPT_NAME": "CENTRAL WYOMING RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "RIVERTON",
@@ -6488,6 +6869,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "RKS",
         "ARPT_NAME": "SOUTHWEST WYOMING RGNL",
         "HUB_SIZE": "Non-Hub",
         "CITY": "ROCK SPRINGS",
@@ -6505,6 +6887,7 @@
         ]
       },
       "properties": {
+        "ARPT_ID": "SHR",
         "ARPT_NAME": "SHERIDAN COUNTY",
         "HUB_SIZE": "Non-Hub",
         "CITY": "SHERIDAN",
