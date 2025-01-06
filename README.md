@@ -18,7 +18,9 @@ ________________________________________
 
 •	Python 
 •	PostgreSQL
+
 Libraries:
+
 •	Pandas
 •	Scikit-learn
 •	Plotly
@@ -31,7 +33,9 @@ ________________________________________
 ## Machine Learning Models
 
 Algorithms Used
+
 Random Forest Classifier:
+
 •	Captures non-linear relationships between flight delays and weather conditions.
 •	Handles complex datasets and reduces overfitting, making it a reliable choice for categorical delay predictions.
 Random Forest Regressor:
