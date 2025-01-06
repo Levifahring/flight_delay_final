@@ -8,15 +8,15 @@ ________________________________________
 
 We would like to acknowledge the data sources that made this project possible:
 
-•	Flight Delay Data:
+Flight Delay Data:
 A clean dataset that includes flight details such as carrier, airport name, arr_delay, and weather_delay.
 
-o	Source: Bureau of Transportation Statistics
+o	Source: Bureau of Transportation Statistics - https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
-•	Weather Data:
+Weather Data:
 Weather-related data such as temperature, wind speed, and precipitation to help predict weather-related delays.
 
-o	Source: Open-Meteo
+o	Source: Open-Meteo - https://open-meteo.com/
 ________________________________________
 ## Prerequisites
 
