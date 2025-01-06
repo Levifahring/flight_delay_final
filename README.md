@@ -21,17 +21,25 @@ ________________________________________
 ## Prerequisites
 
 •	Python 
+
 •	PostgreSQL
 
 Libraries:
 
 •	Pandas
+
 •	Scikit-learn
+
 •	Plotly
+
 •	Matplotlib
+
 •	NumPy
+
 •	Seaborn
+
 •	API Requests
+
 •	Open-Meteo Requests
 ________________________________________
 ## Machine Learning Models
@@ -42,7 +50,9 @@ Random Forest Classifier:
 
 •	Captures non-linear relationships between flight delays and weather conditions.
 •	Handles complex datasets and reduces overfitting, making it a reliable choice for categorical delay predictions.
+
 Random Forest Regressor:
+
 •	Predicts continuous delay times based on factors such as weather and airline data.
 •	Like the classifier, it combines multiple decision trees to improve accuracy and prevent overfitting, ideal for regression tasks like delay time prediction.
 ________________________________________
