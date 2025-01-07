@@ -68,7 +68,7 @@ The machine learning models were integrated into a user-friendly dashboard, allo
     Ensure the following files and folders are in place to successfully launch the dashboard application:
     - All "..._Dashboard" folders
     - index.html
-    - static folder
+    - statics folder
   	- css files
     - js files
    
