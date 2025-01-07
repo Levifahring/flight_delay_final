@@ -77,7 +77,16 @@ Features of the Dashboard:
 •	Interactive Input: Users can select different variables to see corresponding delay predictions.
 
 •	Visualization: Graphical representation of prediction results.
+_______________________________________
+For the overview dashboards (arrival, carrier, and weather) simply open the the respective folder in vs code and on the index(2,3,or4).html file, right click and choose the run in a live server option. This should promt a web page to open to the model. 
 
+The model folder names are as follows:
+
+For Arrivals load this file in vs code: ARRIVAL_USER_INTERFACE_DATA_SCIENCE_FINAL
+For Carrier load this file in vs code: CARRIER_USER_INTERFACE_DATA_SCIENCE_FINAL
+For WEATHER load this file in vs code: WEATHER_USER_INTERFACE_DATA_SCIENCE_FINAL
+
+(The ml algorythems backing these models are located in the Over_view_ml_(arrival_carrier_weather) folder. 
 ________________________________________
 ## Contributors
 
