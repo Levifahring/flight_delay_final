@@ -69,7 +69,9 @@ The machine learning models were integrated into a user-friendly dashboard, allo
 Features of the Dashboard:
 
 •	Interactive Input: Users can select different variables to see corresponding delay predictions.
+
 •	Visualization: Graphical representation of prediction results.
+
 •	Accessibility: Deployed on GitHub Pages for easy access.
 ________________________________________
 ## Contributors
