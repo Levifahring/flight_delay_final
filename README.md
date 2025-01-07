@@ -62,17 +62,22 @@ ________________________________________
 
 The machine learning models were integrated into a user-friendly dashboard, allowing users to input specific details (month, carrier, airport, etc.) and receive delay predictions. The dashboard provides a visual interface to explore the impact of different factors on flight delays.
 
-1.	Clone the git repository –  https://github.com/Levifahring/flight_delay_final.git
-2.	Navigate to the project directory
-3.	Open the index.html to launch the dashboard application
-
+1.	Clone the git repository from the following link:  https://github.com/Levifahring/flight_delay_final.git
+2.	Once the repository is cloned, navigate to the project directory
+3.	Download the required files
+    Ensure the following files and folders are in place to successfully launch the dashboard application:
+    •	All ..._Dashboard folders
+    •	index.html
+    •	static folder
+  	•	css files
+    •	js files
+   
 Features of the Dashboard:
 
 •	Interactive Input: Users can select different variables to see corresponding delay predictions.
 
 •	Visualization: Graphical representation of prediction results.
 
-•	Accessibility: Deployed on GitHub Pages for easy access.
 ________________________________________
 ## Contributors
 
