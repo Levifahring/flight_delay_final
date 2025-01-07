@@ -66,11 +66,11 @@ The machine learning models were integrated into a user-friendly dashboard, allo
 2.	Once the repository is cloned, navigate to the project directory
 3.	Download the required files
     Ensure the following files and folders are in place to successfully launch the dashboard application:
-    - All "..._Dashboard" folders
-    - index.html
-    - statics folder
-  	- css files
-    - js files
+    All contents in the Weather_Dashboard folders
+        - index.html
+        - statics folder
+  	    -  css files
+        - js files
    
 Features of the Dashboard:
 
